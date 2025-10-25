@@ -1,5 +1,3 @@
---SQL PHARMA DATA ASSESSMENT QUESTIONS - PSYLIQ
-
 --1) Retrieve all columns for all records in the dataset.
 
 SELECT * 
