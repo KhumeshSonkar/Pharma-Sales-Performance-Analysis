@@ -1,0 +1,1201 @@
+customer_name,country,city,sub_channel,product_class,sales,quantity,price,month,year,manager,name_of_sales_rep
+Apollo Pharmacy,Australia,Perth,Retail,Antivirals,36010.89,103,400.31,January,2019,Linda Grey,Sophia Patel
+PharmaPlus,Australia,Perth,Wholesale,Vitamins,18835.39,72,303.34,May,2020,Raj Malhotra,Amit Sharma
+MedLife,Brazil,Salvador,Retail,Vaccines,16454.75,75,235.03,June,2017,Sarah Connor,David Garcia
+CurePoint,India,Rendsburg,Retail,Vaccines,30004.74,104,356.96,July,2017,Linda Grey,Laura Adams
+RemedyMart,Australia,Perth,Wholesale,Antibiotics,855.19,2,363.78,January,2018,Linda Grey,Amit Sharma
+MediStore,Brazil,Rio de Janeiro,Retail,Antibiotics,11250.38,130,99.09,August,2023,Sarah Connor,Priya Mehta
+Apollo Pharmacy,USA,Houston,Retail,Antivirals,15071.77,58,267.13,September,2019,Raj Malhotra,Priya Mehta
+HealthKart,USA,San Francisco,Online,Antibiotics,12565.54,49,267.14,February,2019,James Goodwill,Robert Wilson
+LifeCare,France,Lyon,Retail,Analgesics,35003.67,188,189.52,March,2017,Raj Malhotra,Emily Clark
+LifeCare,Australia,Perth,Distributor,Antivirals,52201.41,175,313.01,March,2018,Linda Grey,David Garcia
+RemedyMart,India,Mumbai,Retail,Antivirals,17477.03,64,238.71,March,2023,James Goodwill,John Doe
+Apollo Pharmacy,India,Mumbai,Online,Antibiotics,10433.14,135,93.56,August,2020,Sarah Connor,Michael Brown
+MedLife,Germany,Hamburg,Wholesale,Antibiotics,63837.93,132,471.68,September,2019,Raj Malhotra,Michael Brown
+Apollo Pharmacy,Canada,Ottawa,Wholesale,Vaccines,143.12,9,17.82,December,2019,Linda Grey,Sophia Patel
+PharmaPlus,UK,Leeds,Distributor,Vaccines,17622.8,92,225.67,November,2018,Sarah Connor,Sophia Patel
+HealthZone,Australia,Sydney,Wholesale,Analgesics,249.97,8,26.85,December,2017,James Goodwill,Michael Brown
+CurePoint,India,Mumbai,Distributor,Analgesics,17948.64,164,99.3,June,2022,Linda Grey,Michael Brown
+RemedyMart,Canada,Calgary,Online,Vaccines,15399.28,134,111.89,November,2024,Peter White,David Garcia
+MedLife,Brazil,Brasília,Distributor,Analgesics,79116.79,191,422.72,February,2017,Linda Grey,David Garcia
+RemedyMart,Germany,Frankfurt,Retail,Antibiotics,96186.96,190,464.06,December,2018,Peter White,David Garcia
+RemedyMart,France,Nice,Distributor,Analgesics,703.07,15,53.36,May,2019,Raj Malhotra,Michael Brown
+MediStore,Australia,Perth,Wholesale,Vitamins,30754.6,190,169.41,January,2024,Raj Malhotra,Priya Mehta
+PharmaPlus,France,Toulouse,Distributor,Analgesics,23285.83,82,274.45,August,2020,Linda Grey,William Lee
+MedLife,USA,Chicago,Retail,Antivirals,44422.43,188,275.92,April,2021,James Goodwill,David Garcia
+HealthKart,USA,Los Angeles,Online,Vaccines,1100.3,15,90.98,May,2024,Peter White,Michael Brown
+BioHealth,Brazil,São Paulo,Distributor,Antibiotics,3074.33,9,388.4,April,2020,Linda Grey,Sophia Patel
+Apollo Pharmacy,Canada,Montreal,Wholesale,Vaccines,27938.6,63,409.58,August,2018,Peter White,Robert Wilson
+HealthZone,Brazil,Fortaleza,Online,Antivirals,67485.99,163,397.19,July,2024,Raj Malhotra,William Lee
+BioHealth,India,Mumbai,Distributor,Analgesics,21422.63,41,458.33,October,2017,Sarah Connor,Emily Clark
+LifeCare,Australia,Adelaide,Online,Analgesics,1705.06,12,172.14,August,2021,Linda Grey,Michael Brown
+HealthZone,Brazil,Rio de Janeiro,Distributor,Antibiotics,54381.86,151,337.73,September,2019,James Goodwill,William Lee
+BioHealth,India,Mumbai,Distributor,Antibiotics,64041.61,172,322.4,February,2017,Sarah Connor,Sophia Patel
+HealthKart,Germany,Rendsburg,Distributor,Vitamins,45339.52,193,197.63,January,2024,James Goodwill,Priya Mehta
+HealthZone,UK,London,Retail,Antibiotics,51373.26,131,382.78,September,2023,Sarah Connor,John Doe
+BioHealth,Brazil,Fortaleza,Retail,Antibiotics,36103.66,142,251.96,July,2022,Peter White,Laura Adams
+MediStore,Brazil,Brasília,Wholesale,Analgesics,941.68,15,64.34,January,2018,Linda Grey,Emily Clark
+MediStore,USA,New York,Retail,Antibiotics,4794.68,179,25.4,July,2023,James Goodwill,Priya Mehta
+HealthZone,Australia,Perth,Distributor,Vitamins,16035.65,52,286.01,September,2024,Raj Malhotra,Amit Sharma
+BioHealth,Canada,Vancouver,Distributor,Vaccines,46966.9,151,306.16,April,2020,Raj Malhotra,Michael Brown
+RemedyMart,Canada,Ottawa,Retail,Antivirals,2941.99,29,122.11,August,2023,Sarah Connor,Robert Wilson
+LifeCare,India,Rendsburg,Online,Vitamins,75505.45,187,350.44,May,2017,Raj Malhotra,Robert Wilson
+CurePoint,India,Delhi,Distributor,Vaccines,72699.43,170,405.98,November,2017,Raj Malhotra,William Lee
+HealthZone,Australia,Melbourne,Wholesale,Antibiotics,27788.89,134,233.7,March,2022,Peter White,Robert Wilson
+MediStore,UK,London,Online,Antibiotics,38168.75,84,447.35,February,2021,Linda Grey,Priya Mehta
+MediStore,UK,Leeds,Wholesale,Vaccines,19745.83,92,184.59,June,2021,James Goodwill,Robert Wilson
+Apollo Pharmacy,Canada,Toronto,Online,Analgesics,15240.3,129,121.69,July,2017,Raj Malhotra,William Lee
+PharmaPlus,France,Toulouse,Distributor,Analgesics,19544.69,116,182.76,June,2020,Raj Malhotra,John Doe
+RemedyMart,India,Bangalore,Wholesale,Antivirals,49831.02,198,260.27,November,2023,Raj Malhotra,Amit Sharma
+BioHealth,UK,Leeds,Online,Analgesics,52317.08,165,349.29,August,2020,Sarah Connor,Sophia Patel
+MediStore,UK,Birmingham,Retail,Analgesics,66674.59,152,472.03,March,2024,Sarah Connor,Robert Wilson
+RemedyMart,UK,Leeds,Wholesale,Antivirals,26166.35,96,283.47,September,2020,Peter White,Sophia Patel
+BioHealth,USA,New York,Online,Analgesics,35718.27,62,486.17,August,2023,Linda Grey,Amit Sharma
+LifeCare,Canada,Vancouver,Wholesale,Antivirals,9104.44,39,253.65,July,2021,Linda Grey,David Garcia
+HealthZone,India,Rendsburg,Wholesale,Analgesics,51115.52,113,498.89,December,2022,Raj Malhotra,Sophia Patel
+RemedyMart,USA,Houston,Distributor,Antivirals,420.65,2,256.31,July,2018,Raj Malhotra,Sophia Patel
+RemedyMart,Canada,Calgary,Retail,Antivirals,14099.09,129,127.39,December,2019,Peter White,Laura Adams
+HealthZone,Brazil,Rio de Janeiro,Wholesale,Vitamins,40293.35,172,229.41,July,2020,Linda Grey,David Garcia
+BioHealth,Australia,Adelaide,Retail,Antivirals,3198.24,68,49.62,February,2018,Sarah Connor,William Lee
+RemedyMart,Germany,Rendsburg,Distributor,Antivirals,50377.29,145,366.83,February,2023,Linda Grey,Emily Clark
+Apollo Pharmacy,UK,Leeds,Online,Vaccines,54748.93,116,491.88,February,2020,James Goodwill,David Garcia
+CurePoint,USA,San Francisco,Online,Vitamins,56050.74,144,419.3,May,2017,Linda Grey,Priya Mehta
+LifeCare,Canada,Vancouver,Wholesale,Antibiotics,28087.95,70,350.95,October,2020,James Goodwill,Laura Adams
+LifeCare,Germany,Hamburg,Retail,Antibiotics,23913.47,187,117.92,May,2018,Sarah Connor,John Doe
+HealthZone,Brazil,Brasília,Online,Vitamins,22290.7,147,180.85,September,2018,Sarah Connor,David Garcia
+HealthZone,UK,Liverpool,Retail,Antivirals,33208.55,161,204.81,January,2017,Raj Malhotra,David Garcia
+LifeCare,Australia,Sydney,Wholesale,Analgesics,7536.89,104,77.39,December,2020,Sarah Connor,David Garcia
+BioHealth,India,Chennai,Distributor,Vaccines,94873.7,178,463.1,April,2024,Linda Grey,Michael Brown
+LifeCare,France,Nice,Retail,Analgesics,10506.78,99,121.99,March,2021,Peter White,Sophia Patel
+MediStore,India,Chennai,Retail,Vitamins,31964.26,112,282.05,April,2020,Peter White,Michael Brown
+BioHealth,India,Delhi,Distributor,Analgesics,1181.8,2,498.16,February,2021,Raj Malhotra,Amit Sharma
+PharmaPlus,UK,Manchester,Distributor,Vaccines,93618.76,197,451.2,January,2019,Peter White,William Lee
+PharmaPlus,France,Nice,Online,Vaccines,1425.63,9,146.65,November,2018,Linda Grey,Laura Adams
+CurePoint,USA,Los Angeles,Wholesale,Antibiotics,54127.98,131,429.6,May,2017,Raj Malhotra,Emily Clark
+CurePoint,USA,Houston,Retail,Antivirals,43567.36,161,324.6,July,2019,James Goodwill,Michael Brown
+RemedyMart,Germany,Berlin,Wholesale,Analgesics,76991.37,164,450.29,June,2019,Peter White,Sophia Patel
+HealthKart,USA,New York,Distributor,Vitamins,7126.08,112,59.72,January,2019,Raj Malhotra,David Garcia
+Apollo Pharmacy,India,Rendsburg,Online,Vitamins,12788.46,93,149.12,October,2021,Sarah Connor,Priya Mehta
+MediStore,UK,Manchester,Wholesale,Vaccines,71827.65,194,349.03,August,2022,James Goodwill,Robert Wilson
+BioHealth,Canada,Montreal,Online,Antibiotics,13123.79,169,96.2,April,2017,Sarah Connor,Robert Wilson
+HealthKart,Germany,Berlin,Wholesale,Analgesics,26434.32,142,169.45,February,2021,Raj Malhotra,Michael Brown
+RemedyMart,Australia,Perth,Wholesale,Antibiotics,52191.89,128,374.64,April,2023,Raj Malhotra,Michael Brown
+RemedyMart,India,Chennai,Online,Analgesics,30922.87,128,288.47,July,2022,Linda Grey,Laura Adams
+BioHealth,Brazil,São Paulo,Online,Vaccines,33313.14,115,321.8,March,2023,Linda Grey,David Garcia
+HealthKart,USA,Chicago,Retail,Antibiotics,73622.45,158,486.78,April,2023,Sarah Connor,John Doe
+MedLife,France,Paris,Distributor,Vaccines,80457.88,182,453.99,May,2023,James Goodwill,William Lee
+Apollo Pharmacy,UK,Manchester,Online,Antibiotics,5547.65,21,256.29,June,2017,James Goodwill,Priya Mehta
+HealthKart,France,Toulouse,Retail,Vaccines,74238.84,192,433.44,December,2022,Peter White,Amit Sharma
+HealthZone,France,Paris,Distributor,Antibiotics,5735.97,48,147.58,February,2018,Linda Grey,Priya Mehta
+HealthKart,Canada,Calgary,Wholesale,Analgesics,1841.21,49,31.37,June,2017,Linda Grey,William Lee
+HealthZone,Australia,Perth,Retail,Antivirals,87951.88,158,477.43,July,2019,Linda Grey,Emily Clark
+HealthZone,India,Bangalore,Retail,Vitamins,44014.5,99,376.38,August,2021,Peter White,Amit Sharma
+HealthZone,France,Marseille,Distributor,Antibiotics,24258.13,93,219.81,June,2024,Peter White,Michael Brown
+CurePoint,Canada,Ottawa,Retail,Analgesics,40299.6,99,490.36,August,2023,Sarah Connor,Robert Wilson
+RemedyMart,USA,Houston,Distributor,Antibiotics,63325.74,160,427.06,May,2021,Linda Grey,Michael Brown
+PharmaPlus,Brazil,São Paulo,Distributor,Vitamins,23616.79,128,192.62,December,2023,Raj Malhotra,William Lee
+CurePoint,UK,Leeds,Retail,Analgesics,19487.95,54,351.05,May,2024,James Goodwill,John Doe
+LifeCare,Australia,Perth,Distributor,Vitamins,2881.5,24,112.37,December,2017,Sarah Connor,William Lee
+LifeCare,Canada,Ottawa,Online,Analgesics,11961.7,151,78.64,December,2023,Linda Grey,Michael Brown
+PharmaPlus,Canada,Calgary,Retail,Vitamins,24893.39,130,168.05,August,2019,Peter White,Amit Sharma
+LifeCare,India,Rendsburg,Retail,Analgesics,45800.69,137,354.22,October,2022,Linda Grey,David Garcia
+MediStore,India,Delhi,Distributor,Antibiotics,77694.35,170,406.59,March,2017,Peter White,William Lee
+HealthZone,UK,London,Distributor,Vitamins,39446.14,153,309.64,July,2018,Raj Malhotra,Robert Wilson
+CurePoint,Brazil,São Paulo,Wholesale,Vaccines,38644.34,135,255.74,December,2019,Raj Malhotra,Sophia Patel
+MediStore,Germany,Munich,Retail,Vitamins,2789.28,65,44.76,April,2019,Peter White,Robert Wilson
+Apollo Pharmacy,USA,Chicago,Retail,Antivirals,59241.24,142,446.1,May,2021,James Goodwill,Amit Sharma
+CurePoint,Germany,Munich,Wholesale,Vitamins,26350.03,92,293.64,May,2023,Raj Malhotra,John Doe
+HealthKart,Australia,Sydney,Wholesale,Vaccines,5200.94,191,27.61,September,2019,James Goodwill,David Garcia
+PharmaPlus,USA,Chicago,Retail,Analgesics,35133.85,63,491.1,July,2017,Raj Malhotra,David Garcia
+HealthZone,France,Paris,Online,Vaccines,1179.3,58,24.95,January,2019,Linda Grey,Emily Clark
+MediStore,Brazil,São Paulo,Retail,Antibiotics,11266.68,70,158.6,October,2017,Sarah Connor,Amit Sharma
+PharmaPlus,USA,New York,Retail,Antibiotics,29756.27,101,265.9,April,2021,Raj Malhotra,Laura Adams
+MedLife,USA,Chicago,Retail,Antivirals,28397.23,108,315.22,December,2022,James Goodwill,John Doe
+HealthZone,Australia,Adelaide,Online,Antivirals,11065.46,109,105.25,September,2017,James Goodwill,John Doe
+MedLife,USA,Los Angeles,Distributor,Antivirals,34797.64,99,322.34,June,2023,James Goodwill,Amit Sharma
+HealthKart,India,Delhi,Wholesale,Vaccines,6847.2,13,485.07,November,2024,Raj Malhotra,Sophia Patel
+HealthKart,India,Mumbai,Distributor,Antivirals,53361.91,147,399.64,May,2020,Linda Grey,David Garcia
+LifeCare,India,Bangalore,Wholesale,Vitamins,31027.09,92,374.58,January,2024,Peter White,Emily Clark
+LifeCare,Brazil,São Paulo,Online,Antibiotics,5640.21,117,49.63,September,2020,Peter White,Laura Adams
+BioHealth,India,Mumbai,Distributor,Vaccines,25605.41,140,210.39,March,2021,James Goodwill,Robert Wilson
+BioHealth,Canada,Ottawa,Distributor,Vitamins,203.15,1,226.75,April,2019,Raj Malhotra,Emily Clark
+CurePoint,India,Delhi,Distributor,Analgesics,45220.91,118,360.15,June,2021,Raj Malhotra,Priya Mehta
+HealthZone,Canada,Toronto,Wholesale,Vitamins,38013.94,117,322.75,April,2024,James Goodwill,Priya Mehta
+LifeCare,France,Marseille,Wholesale,Vaccines,56489.39,192,281.63,November,2019,Linda Grey,David Garcia
+HealthZone,USA,Houston,Online,Antibiotics,24145.0,195,131.39,November,2023,James Goodwill,John Doe
+RemedyMart,Canada,Vancouver,Wholesale,Vitamins,1241.12,86,17.05,July,2024,James Goodwill,Amit Sharma
+RemedyMart,USA,New York,Retail,Vaccines,3581.45,69,56.14,December,2024,Peter White,Robert Wilson
+RemedyMart,Brazil,Fortaleza,Retail,Antibiotics,66713.72,190,354.79,January,2018,James Goodwill,Sophia Patel
+RemedyMart,Brazil,Rio de Janeiro,Wholesale,Vitamins,66962.25,176,405.39,December,2021,Sarah Connor,John Doe
+MediStore,India,Delhi,Online,Vaccines,21693.0,101,205.27,November,2019,Linda Grey,John Doe
+LifeCare,Brazil,São Paulo,Wholesale,Antivirals,27735.22,69,444.47,December,2017,James Goodwill,Amit Sharma
+LifeCare,India,Bangalore,Wholesale,Antivirals,43755.28,138,316.67,August,2022,Sarah Connor,Sophia Patel
+HealthKart,Australia,Melbourne,Retail,Analgesics,294.47,1,274.29,February,2017,Sarah Connor,Laura Adams
+HealthKart,USA,Chicago,Retail,Vaccines,753.91,16,44.58,February,2020,James Goodwill,Sophia Patel
+CurePoint,Germany,Munich,Distributor,Vaccines,46154.63,128,321.84,January,2018,Raj Malhotra,William Lee
+CurePoint,France,Nice,Distributor,Analgesics,29634.43,140,200.2,January,2021,Sarah Connor,William Lee
+HealthKart,USA,Houston,Retail,Antivirals,74020.23,161,407.49,November,2019,James Goodwill,Laura Adams
+LifeCare,India,Delhi,Distributor,Antibiotics,2831.23,12,199.19,March,2020,Peter White,Priya Mehta
+RemedyMart,India,Bangalore,Online,Antivirals,7490.17,74,111.28,December,2019,Raj Malhotra,David Garcia
+CurePoint,Australia,Melbourne,Wholesale,Analgesics,575.24,12,59.38,July,2024,Raj Malhotra,Michael Brown
+HealthKart,UK,Birmingham,Wholesale,Vaccines,6503.17,35,174.91,January,2017,Sarah Connor,Sophia Patel
+HealthZone,Canada,Vancouver,Retail,Antibiotics,31911.91,93,423.99,February,2018,James Goodwill,David Garcia
+Apollo Pharmacy,Canada,Ottawa,Online,Antibiotics,22278.51,162,137.74,December,2024,James Goodwill,Priya Mehta
+MediStore,Germany,Frankfurt,Online,Vaccines,21432.4,58,351.4,March,2018,James Goodwill,William Lee
+MedLife,Germany,Rendsburg,Online,Antivirals,4433.93,157,29.2,September,2019,Peter White,Emily Clark
+Apollo Pharmacy,Canada,Montreal,Distributor,Vitamins,17493.69,164,96.95,September,2018,James Goodwill,Laura Adams
+LifeCare,Australia,Melbourne,Retail,Vitamins,61300.8,192,292.2,February,2017,Peter White,Michael Brown
+PharmaPlus,France,Marseille,Online,Antivirals,7687.82,36,192.29,February,2018,Peter White,David Garcia
+RemedyMart,Canada,Ottawa,Online,Vaccines,67739.12,152,434.89,September,2022,Peter White,William Lee
+MedLife,Brazil,Rio de Janeiro,Distributor,Antivirals,2907.69,12,220.21,March,2023,James Goodwill,Laura Adams
+RemedyMart,USA,New York,Distributor,Vaccines,6957.38,99,60.53,February,2019,James Goodwill,David Garcia
+RemedyMart,Germany,Hamburg,Distributor,Vitamins,15011.79,62,253.31,February,2018,James Goodwill,Sophia Patel
+CurePoint,India,Bangalore,Retail,Analgesics,60477.58,141,448.81,August,2024,Linda Grey,Robert Wilson
+LifeCare,India,Delhi,Wholesale,Antivirals,76481.78,140,479.69,April,2017,Peter White,Robert Wilson
+BioHealth,UK,Manchester,Online,Antibiotics,1767.84,9,166.46,October,2019,James Goodwill,Robert Wilson
+CurePoint,UK,London,Online,Antibiotics,31456.32,128,246.44,February,2023,Peter White,Sophia Patel
+HealthKart,USA,New York,Online,Antibiotics,30346.11,144,229.74,April,2020,Linda Grey,Sophia Patel
+HealthZone,Australia,Perth,Distributor,Antivirals,6224.62,25,281.31,March,2022,Linda Grey,Laura Adams
+PharmaPlus,USA,Houston,Online,Antibiotics,23529.99,53,397.87,February,2019,Peter White,Amit Sharma
+Apollo Pharmacy,USA,New York,Distributor,Analgesics,60450.33,109,466.16,December,2017,Peter White,Amit Sharma
+CurePoint,India,Rendsburg,Distributor,Vaccines,38728.87,142,279.27,August,2023,Raj Malhotra,Sophia Patel
+CurePoint,India,Mumbai,Distributor,Antibiotics,4330.56,75,67.36,December,2023,Sarah Connor,Robert Wilson
+RemedyMart,Brazil,São Paulo,Wholesale,Vitamins,35650.25,74,420.11,May,2017,Sarah Connor,David Garcia
+MedLife,USA,New York,Online,Antibiotics,1361.51,7,218.78,December,2024,Sarah Connor,John Doe
+CurePoint,Brazil,Salvador,Retail,Antivirals,61205.75,137,412.71,May,2017,Linda Grey,Michael Brown
+BioHealth,India,Chennai,Wholesale,Antivirals,1168.11,5,261.53,September,2021,Peter White,Sophia Patel
+HealthKart,UK,Manchester,Distributor,Vitamins,24940.14,136,193.39,September,2020,Peter White,Laura Adams
+HealthZone,Brazil,Salvador,Distributor,Vitamins,82117.12,145,474.15,February,2018,Linda Grey,Sophia Patel
+MediStore,Canada,Montreal,Distributor,Antibiotics,25968.77,132,181.61,April,2022,Linda Grey,Robert Wilson
+Apollo Pharmacy,USA,Los Angeles,Wholesale,Vaccines,7598.67,19,390.8,February,2022,Linda Grey,Priya Mehta
+HealthKart,Brazil,Brasília,Retail,Vitamins,11185.37,91,131.87,February,2022,Sarah Connor,Sophia Patel
+PharmaPlus,Germany,Frankfurt,Retail,Vitamins,25483.96,126,251.39,December,2021,Linda Grey,David Garcia
+CurePoint,USA,Los Angeles,Wholesale,Antivirals,4014.18,126,37.59,November,2017,Sarah Connor,Robert Wilson
+MedLife,Canada,Montreal,Wholesale,Antivirals,27665.35,61,413.17,April,2023,Raj Malhotra,Emily Clark
+MediStore,Australia,Brisbane,Retail,Antibiotics,45921.2,131,295.85,October,2020,Linda Grey,Sophia Patel
+HealthZone,Canada,Vancouver,Wholesale,Vaccines,38841.16,191,244.08,October,2023,Sarah Connor,Amit Sharma
+MedLife,Australia,Melbourne,Retail,Vitamins,22815.82,161,119.56,May,2017,James Goodwill,Emily Clark
+HealthZone,India,Rendsburg,Online,Antibiotics,22005.65,44,489.17,February,2018,Sarah Connor,John Doe
+Apollo Pharmacy,USA,Los Angeles,Online,Analgesics,21225.63,47,446.66,November,2021,Sarah Connor,Laura Adams
+HealthZone,Australia,Perth,Retail,Antibiotics,54810.9,164,281.39,January,2024,Sarah Connor,Robert Wilson
+Apollo Pharmacy,Germany,Hamburg,Wholesale,Antivirals,11839.27,146,91.45,April,2019,Sarah Connor,William Lee
+CurePoint,Germany,Munich,Online,Analgesics,34978.46,143,232.73,September,2017,James Goodwill,David Garcia
+HealthZone,Germany,Berlin,Online,Vitamins,25613.44,118,198.26,July,2020,James Goodwill,Amit Sharma
+RemedyMart,India,Bangalore,Distributor,Antibiotics,4738.95,12,479.76,October,2018,James Goodwill,Amit Sharma
+MediStore,Brazil,Rio de Janeiro,Retail,Vaccines,24936.89,102,233.27,June,2018,Peter White,Priya Mehta
+PharmaPlus,Australia,Perth,Online,Vaccines,788.89,8,93.14,April,2017,Peter White,Michael Brown
+LifeCare,India,Chennai,Distributor,Analgesics,25740.49,136,183.14,June,2021,Raj Malhotra,Michael Brown
+MedLife,India,Mumbai,Distributor,Vaccines,58807.39,101,487.45,March,2023,Linda Grey,Sophia Patel
+RemedyMart,Australia,Melbourne,Wholesale,Vitamins,48115.58,191,272.69,May,2021,Raj Malhotra,Sophia Patel
+HealthKart,USA,New York,Retail,Vitamins,9812.8,157,75.26,January,2024,James Goodwill,William Lee
+CurePoint,USA,Houston,Distributor,Vitamins,69455.26,134,475.4,September,2022,Linda Grey,Sophia Patel
+HealthZone,Canada,Vancouver,Wholesale,Antivirals,18027.27,47,460.4,December,2024,Sarah Connor,Emily Clark
+MediStore,Germany,Hamburg,Online,Vaccines,10660.58,30,434.37,April,2017,Sarah Connor,Michael Brown
+HealthZone,Brazil,São Paulo,Retail,Antibiotics,27965.88,119,211.52,October,2019,Linda Grey,Amit Sharma
+MediStore,Brazil,São Paulo,Wholesale,Antivirals,62009.78,146,493.77,July,2019,Peter White,William Lee
+MediStore,Australia,Melbourne,Retail,Antivirals,30696.93,85,377.29,June,2022,Raj Malhotra,Robert Wilson
+MedLife,UK,Leeds,Retail,Antibiotics,28310.35,59,422.64,July,2017,Peter White,William Lee
+MediStore,Germany,Rendsburg,Online,Analgesics,2345.46,98,28.04,March,2018,James Goodwill,Laura Adams
+BioHealth,Australia,Melbourne,Retail,Antivirals,6423.14,149,37.62,December,2017,Raj Malhotra,Laura Adams
+RemedyMart,Brazil,Rio de Janeiro,Online,Antivirals,118034.43,197,499.86,February,2017,Raj Malhotra,Robert Wilson
+PharmaPlus,Germany,Hamburg,Retail,Vaccines,58563.97,181,296.72,March,2022,Sarah Connor,Priya Mehta
+Apollo Pharmacy,Brazil,São Paulo,Online,Vitamins,10674.18,83,131.2,July,2019,Sarah Connor,David Garcia
+LifeCare,India,Mumbai,Online,Antibiotics,13332.75,110,133.21,January,2020,Peter White,Michael Brown
+Apollo Pharmacy,India,Chennai,Wholesale,Analgesics,521.64,4,122.03,March,2023,Peter White,David Garcia
+RemedyMart,Canada,Calgary,Online,Vaccines,957.71,32,32.98,February,2023,James Goodwill,Michael Brown
+Apollo Pharmacy,France,Toulouse,Distributor,Vitamins,13331.15,39,339.07,March,2019,Raj Malhotra,Laura Adams
+MediStore,India,Bangalore,Online,Vaccines,45462.9,118,417.37,May,2017,Peter White,Sophia Patel
+HealthKart,France,Marseille,Distributor,Analgesics,55442.25,193,280.43,April,2018,James Goodwill,Laura Adams
+HealthKart,UK,Manchester,Retail,Antivirals,16911.49,57,299.08,March,2019,Linda Grey,William Lee
+MediStore,USA,Los Angeles,Online,Antibiotics,60144.51,151,380.02,March,2021,James Goodwill,Sophia Patel
+RemedyMart,India,Mumbai,Wholesale,Vitamins,30999.87,66,404.47,April,2020,Raj Malhotra,John Doe
+HealthZone,USA,San Francisco,Distributor,Antivirals,3092.4,192,17.13,May,2022,James Goodwill,Sophia Patel
+MedLife,UK,London,Retail,Antivirals,32243.9,98,321.96,September,2017,Peter White,Amit Sharma
+HealthZone,USA,Houston,Retail,Vitamins,76171.92,179,453.04,February,2017,Raj Malhotra,Michael Brown
+LifeCare,UK,Liverpool,Online,Vaccines,44632.31,166,230.95,August,2023,Raj Malhotra,Amit Sharma
+RemedyMart,Australia,Sydney,Wholesale,Antivirals,10813.55,30,314.82,April,2017,Linda Grey,Michael Brown
+MedLife,France,Nice,Retail,Antibiotics,52370.23,133,400.27,June,2024,James Goodwill,Robert Wilson
+Apollo Pharmacy,UK,Leeds,Retail,Antibiotics,32893.86,145,251.14,March,2019,Peter White,Priya Mehta
+LifeCare,USA,Los Angeles,Wholesale,Antivirals,33725.3,69,490.22,June,2024,Linda Grey,Sophia Patel
+HealthZone,France,Toulouse,Retail,Vitamins,36170.84,126,320.37,December,2024,Peter White,Michael Brown
+MediStore,India,Chennai,Online,Analgesics,30923.6,115,273.26,February,2020,Sarah Connor,William Lee
+LifeCare,France,Marseille,Online,Antivirals,5778.6,80,84.43,February,2022,Linda Grey,John Doe
+CurePoint,Germany,Munich,Distributor,Analgesics,847.61,8,98.23,October,2024,Peter White,Priya Mehta
+LifeCare,USA,San Francisco,Distributor,Vaccines,11118.73,25,449.43,February,2017,Peter White,Emily Clark
+HealthKart,Canada,Montreal,Online,Antibiotics,47120.28,93,486.82,March,2022,Linda Grey,Emily Clark
+MediStore,India,Rendsburg,Wholesale,Analgesics,1328.72,51,30.03,September,2017,Peter White,Priya Mehta
+HealthZone,Germany,Munich,Wholesale,Vitamins,13483.35,92,180.33,May,2022,Linda Grey,Amit Sharma
+HealthKart,Canada,Toronto,Distributor,Vaccines,4761.8,70,69.11,June,2022,Raj Malhotra,Priya Mehta
+PharmaPlus,France,Lyon,Distributor,Antivirals,34345.48,90,448.17,May,2017,Sarah Connor,David Garcia
+BioHealth,Australia,Adelaide,Retail,Vaccines,6311.27,45,167.58,July,2018,Linda Grey,David Garcia
+PharmaPlus,India,Mumbai,Wholesale,Antivirals,12432.67,47,317.67,April,2019,Linda Grey,Emily Clark
+PharmaPlus,UK,Leeds,Retail,Antibiotics,7769.43,94,86.92,November,2024,Linda Grey,David Garcia
+Apollo Pharmacy,France,Nice,Retail,Antivirals,13244.45,81,145.67,June,2022,Raj Malhotra,John Doe
+Apollo Pharmacy,India,Rendsburg,Wholesale,Vitamins,40854.04,113,302.67,September,2019,Sarah Connor,David Garcia
+RemedyMart,UK,Birmingham,Wholesale,Analgesics,8946.18,47,191.53,September,2020,Linda Grey,Amit Sharma
+HealthZone,Canada,Ottawa,Distributor,Analgesics,5261.51,28,190.77,December,2018,James Goodwill,John Doe
+MediStore,USA,San Francisco,Wholesale,Antibiotics,3797.16,109,40.55,September,2020,Linda Grey,Robert Wilson
+PharmaPlus,France,Nice,Distributor,Antivirals,47883.36,115,359.54,October,2022,Linda Grey,John Doe
+LifeCare,Canada,Calgary,Distributor,Vitamins,24417.22,107,270.74,June,2019,Linda Grey,Robert Wilson
+BioHealth,USA,Chicago,Retail,Vaccines,9236.5,38,270.98,May,2021,James Goodwill,Robert Wilson
+HealthZone,Germany,Hamburg,Online,Antibiotics,18737.8,119,194.87,October,2020,Raj Malhotra,Emily Clark
+BioHealth,USA,San Francisco,Wholesale,Vaccines,65233.94,185,421.95,August,2017,Sarah Connor,Michael Brown
+MediStore,UK,Leeds,Distributor,Vitamins,10005.48,126,68.68,September,2018,Linda Grey,John Doe
+PharmaPlus,Brazil,Salvador,Online,Antibiotics,9560.16,25,342.76,April,2020,Raj Malhotra,David Garcia
+MediStore,USA,San Francisco,Distributor,Antibiotics,27604.42,109,245.0,April,2023,Peter White,John Doe
+PharmaPlus,India,Chennai,Wholesale,Antivirals,9965.26,34,283.29,April,2021,Sarah Connor,John Doe
+MediStore,Australia,Melbourne,Retail,Vaccines,15179.19,83,195.6,March,2024,Peter White,Sophia Patel
+HealthKart,USA,Houston,Online,Antibiotics,60433.86,180,326.5,July,2018,Peter White,Emily Clark
+Apollo Pharmacy,India,Chennai,Online,Vitamins,43588.48,184,254.14,June,2024,Linda Grey,David Garcia
+Apollo Pharmacy,USA,Chicago,Wholesale,Analgesics,12841.92,121,126.24,September,2024,Raj Malhotra,Michael Brown
+MediStore,Brazil,São Paulo,Retail,Antibiotics,37243.47,198,189.02,June,2024,Raj Malhotra,Sophia Patel
+HealthKart,UK,London,Retail,Antivirals,8713.96,94,101.42,July,2024,Sarah Connor,Laura Adams
+CurePoint,UK,Leeds,Online,Vaccines,4025.46,95,37.27,February,2024,Sarah Connor,Michael Brown
+PharmaPlus,USA,New York,Wholesale,Vitamins,33724.64,131,267.01,May,2022,Linda Grey,Robert Wilson
+BioHealth,Germany,Hamburg,Retail,Antivirals,20799.7,36,498.66,April,2021,James Goodwill,Robert Wilson
+CurePoint,Germany,Hamburg,Wholesale,Antivirals,36686.73,75,434.1,March,2020,Linda Grey,David Garcia
+MedLife,France,Nice,Wholesale,Antivirals,30826.57,113,250.47,October,2017,Raj Malhotra,William Lee
+BioHealth,France,Paris,Online,Vaccines,29509.32,62,465.39,August,2024,Peter White,Robert Wilson
+CurePoint,UK,London,Online,Vaccines,37607.18,136,243.54,July,2019,Linda Grey,John Doe
+MediStore,Brazil,Brasília,Online,Vitamins,12565.95,133,101.65,June,2020,Raj Malhotra,Amit Sharma
+PharmaPlus,Germany,Munich,Online,Vaccines,2240.92,19,107.76,December,2019,James Goodwill,Amit Sharma
+RemedyMart,France,Nice,Wholesale,Vitamins,9688.32,140,66.27,August,2021,Sarah Connor,Robert Wilson
+HealthKart,USA,Chicago,Online,Analgesics,3385.53,64,52.77,June,2020,Raj Malhotra,Emily Clark
+MediStore,Germany,Berlin,Online,Analgesics,17338.55,100,167.11,April,2017,Sarah Connor,Amit Sharma
+LifeCare,India,Mumbai,Retail,Vitamins,20013.95,134,174.94,October,2019,Peter White,Amit Sharma
+PharmaPlus,USA,Chicago,Online,Vitamins,37098.69,151,278.97,March,2021,Raj Malhotra,Laura Adams
+HealthKart,India,Mumbai,Distributor,Antivirals,61641.08,168,406.84,August,2019,Linda Grey,Emily Clark
+CurePoint,Australia,Brisbane,Wholesale,Vaccines,968.88,101,11.33,April,2020,Raj Malhotra,David Garcia
+Apollo Pharmacy,Australia,Adelaide,Online,Vitamins,33257.37,143,241.07,February,2019,Sarah Connor,John Doe
+BioHealth,Australia,Brisbane,Online,Antivirals,6675.63,94,62.28,August,2017,Peter White,Michael Brown
+MedLife,USA,Chicago,Wholesale,Analgesics,77135.51,188,482.86,May,2019,Peter White,William Lee
+RemedyMart,Australia,Perth,Wholesale,Antibiotics,52450.11,120,495.56,August,2017,Raj Malhotra,Laura Adams
+HealthKart,Brazil,Fortaleza,Distributor,Antibiotics,17677.97,35,463.96,April,2021,Linda Grey,Robert Wilson
+RemedyMart,Brazil,Brasília,Online,Vaccines,21697.29,60,422.5,March,2022,Raj Malhotra,Michael Brown
+PharmaPlus,India,Mumbai,Online,Antibiotics,44416.06,105,377.75,September,2018,Linda Grey,Sophia Patel
+CurePoint,India,Mumbai,Online,Antibiotics,3565.67,35,90.49,June,2023,Raj Malhotra,Emily Clark
+HealthZone,France,Marseille,Distributor,Vaccines,45858.7,123,320.54,August,2023,Peter White,Priya Mehta
+MedLife,USA,Houston,Distributor,Antibiotics,37460.78,89,439.83,April,2023,Linda Grey,Laura Adams
+HealthKart,France,Toulouse,Distributor,Antivirals,10049.68,40,231.45,March,2020,Linda Grey,Priya Mehta
+Apollo Pharmacy,UK,Manchester,Distributor,Vaccines,6972.92,32,236.71,January,2017,Raj Malhotra,Sophia Patel
+HealthKart,USA,New York,Retail,Analgesics,5334.92,23,224.98,October,2020,Raj Malhotra,John Doe
+MedLife,Germany,Frankfurt,Online,Vaccines,62328.79,145,450.79,October,2020,Sarah Connor,Amit Sharma
+BioHealth,India,Mumbai,Retail,Antivirals,25267.22,53,454.17,December,2020,Peter White,William Lee
+MediStore,Canada,Vancouver,Distributor,Antivirals,36988.71,179,221.45,September,2020,Raj Malhotra,Amit Sharma
+BioHealth,France,Nice,Online,Antibiotics,26667.22,179,174.1,January,2017,James Goodwill,Laura Adams
+CurePoint,USA,Chicago,Retail,Antibiotics,6595.85,15,440.53,June,2020,Sarah Connor,Michael Brown
+HealthZone,France,Lyon,Retail,Vitamins,52882.62,155,396.41,January,2021,Sarah Connor,Amit Sharma
+LifeCare,Canada,Calgary,Online,Antivirals,38425.14,97,356.42,September,2020,Raj Malhotra,John Doe
+BioHealth,Germany,Munich,Wholesale,Antibiotics,896.57,33,26.43,September,2017,Raj Malhotra,John Doe
+MedLife,USA,San Francisco,Retail,Antivirals,2777.22,10,252.05,August,2017,Raj Malhotra,Sophia Patel
+CurePoint,Canada,Calgary,Online,Antibiotics,41086.03,118,412.42,February,2020,Linda Grey,Emily Clark
+RemedyMart,USA,San Francisco,Wholesale,Antivirals,7574.69,109,72.47,June,2024,Sarah Connor,Laura Adams
+BioHealth,UK,Manchester,Online,Analgesics,42866.01,157,274.53,November,2023,Raj Malhotra,Michael Brown
+RemedyMart,Canada,Vancouver,Distributor,Vitamins,26923.14,68,363.9,June,2024,Sarah Connor,Robert Wilson
+HealthZone,India,Mumbai,Distributor,Vaccines,29562.66,95,303.24,February,2022,Peter White,Michael Brown
+LifeCare,Canada,Toronto,Retail,Vitamins,3253.84,26,133.38,July,2018,Peter White,Sophia Patel
+HealthZone,France,Paris,Distributor,Antivirals,4946.9,11,479.95,August,2017,Sarah Connor,John Doe
+PharmaPlus,Brazil,Rio de Janeiro,Retail,Vaccines,27239.91,134,206.42,March,2023,James Goodwill,John Doe
+BioHealth,Canada,Ottawa,Wholesale,Vitamins,16680.46,46,311.33,January,2020,Raj Malhotra,Robert Wilson
+CurePoint,France,Nice,Wholesale,Antibiotics,28016.27,104,257.89,November,2019,James Goodwill,Michael Brown
+PharmaPlus,USA,Houston,Online,Vaccines,42112.51,111,365.79,February,2018,James Goodwill,Laura Adams
+LifeCare,Australia,Melbourne,Distributor,Antibiotics,51358.76,100,460.19,January,2021,James Goodwill,John Doe
+LifeCare,Germany,Rendsburg,Online,Antivirals,11358.82,37,356.55,January,2023,Sarah Connor,Emily Clark
+HealthZone,Australia,Perth,Distributor,Antibiotics,14730.09,92,193.47,July,2023,James Goodwill,Michael Brown
+HealthKart,UK,Birmingham,Retail,Antibiotics,22200.08,51,370.86,June,2024,Sarah Connor,Priya Mehta
+MediStore,France,Lyon,Distributor,Antivirals,2147.06,11,230.91,January,2024,Peter White,Michael Brown
+LifeCare,UK,Manchester,Retail,Vaccines,11872.06,149,91.11,February,2023,Raj Malhotra,William Lee
+MediStore,India,Mumbai,Wholesale,Antibiotics,9104.09,57,172.75,August,2024,Raj Malhotra,David Garcia
+LifeCare,Canada,Vancouver,Distributor,Vaccines,33075.34,115,299.72,November,2017,James Goodwill,Sophia Patel
+Apollo Pharmacy,Australia,Brisbane,Distributor,Antivirals,10354.02,53,174.25,September,2021,Sarah Connor,Michael Brown
+LifeCare,UK,Liverpool,Wholesale,Vaccines,30260.19,117,305.82,August,2017,Raj Malhotra,David Garcia
+HealthZone,France,Marseille,Distributor,Antivirals,12659.93,25,433.12,November,2019,Linda Grey,Michael Brown
+HealthZone,Brazil,São Paulo,Distributor,Vitamins,26609.99,135,180.01,June,2017,Sarah Connor,Priya Mehta
+BioHealth,UK,Birmingham,Online,Vitamins,4114.66,17,297.66,August,2020,James Goodwill,Robert Wilson
+MedLife,France,Lyon,Wholesale,Vaccines,24293.43,179,131.63,June,2023,Peter White,Priya Mehta
+Apollo Pharmacy,Canada,Toronto,Retail,Antivirals,45178.48,180,215.27,March,2017,Peter White,Robert Wilson
+BioHealth,India,Mumbai,Distributor,Vaccines,63282.19,177,392.44,April,2017,Linda Grey,Emily Clark
+RemedyMart,Brazil,Fortaleza,Distributor,Antivirals,2694.09,154,16.42,August,2019,Peter White,John Doe
+HealthKart,USA,Los Angeles,Distributor,Antivirals,95522.85,199,488.02,July,2022,Linda Grey,Priya Mehta
+LifeCare,UK,Liverpool,Distributor,Antibiotics,26316.41,148,213.17,June,2020,Linda Grey,Michael Brown
+BioHealth,India,Rendsburg,Wholesale,Antibiotics,17452.75,189,100.39,May,2024,Peter White,Michael Brown
+HealthZone,Brazil,Salvador,Distributor,Vaccines,28016.1,141,204.69,June,2022,Sarah Connor,David Garcia
+PharmaPlus,USA,San Francisco,Wholesale,Analgesics,73042.34,184,450.05,March,2017,James Goodwill,Laura Adams
+MediStore,USA,Los Angeles,Wholesale,Analgesics,8722.41,29,316.24,October,2024,Raj Malhotra,Amit Sharma
+HealthKart,Canada,Vancouver,Distributor,Antibiotics,34121.28,144,286.77,October,2017,James Goodwill,Amit Sharma
+MediStore,UK,Liverpool,Retail,Antivirals,28381.86,78,359.89,August,2021,James Goodwill,Robert Wilson
+Apollo Pharmacy,Australia,Sydney,Online,Antibiotics,23876.13,113,206.37,April,2023,Linda Grey,Priya Mehta
+Apollo Pharmacy,Australia,Adelaide,Online,Vaccines,3556.62,63,60.46,July,2022,Raj Malhotra,David Garcia
+BioHealth,Germany,Berlin,Distributor,Antivirals,24727.98,55,473.6,November,2021,Linda Grey,Robert Wilson
+HealthKart,UK,Manchester,Retail,Analgesics,33028.91,110,268.02,December,2024,Raj Malhotra,Laura Adams
+CurePoint,France,Nice,Online,Vaccines,5169.09,55,86.51,August,2020,Peter White,Laura Adams
+BioHealth,Australia,Brisbane,Retail,Vaccines,19925.51,93,209.91,December,2022,Peter White,Sophia Patel
+Apollo Pharmacy,UK,Liverpool,Distributor,Antibiotics,8824.1,67,123.23,October,2023,Peter White,William Lee
+RemedyMart,USA,Los Angeles,Online,Analgesics,4919.7,72,61.01,December,2023,Peter White,Laura Adams
+BioHealth,UK,Birmingham,Online,Vitamins,30481.87,67,444.86,October,2022,Peter White,Michael Brown
+RemedyMart,Brazil,São Paulo,Distributor,Analgesics,421.57,8,58.73,April,2023,Peter White,Robert Wilson
+HealthKart,Germany,Munich,Online,Antibiotics,26759.9,78,305.57,July,2021,Raj Malhotra,John Doe
+MediStore,USA,New York,Online,Antibiotics,31446.35,144,204.62,December,2022,Sarah Connor,William Lee
+RemedyMart,Australia,Sydney,Online,Antibiotics,25275.6,142,153.64,January,2018,Raj Malhotra,John Doe
+MediStore,USA,Chicago,Wholesale,Vitamins,2453.59,7,320.29,July,2022,Sarah Connor,David Garcia
+CurePoint,UK,Manchester,Distributor,Antivirals,1705.88,85,23.0,May,2018,Linda Grey,William Lee
+BioHealth,Brazil,Brasília,Wholesale,Analgesics,12655.64,36,325.03,July,2020,Linda Grey,Emily Clark
+HealthKart,Australia,Adelaide,Distributor,Analgesics,49609.95,129,410.55,June,2023,James Goodwill,Michael Brown
+HealthKart,France,Lyon,Online,Antibiotics,19876.04,130,187.9,December,2024,Sarah Connor,William Lee
+CurePoint,Brazil,Brasília,Wholesale,Antibiotics,6087.72,20,315.83,April,2023,Sarah Connor,Michael Brown
+HealthZone,Canada,Toronto,Online,Vitamins,28127.31,137,223.7,July,2017,Sarah Connor,William Lee
+Apollo Pharmacy,Brazil,Rio de Janeiro,Wholesale,Vaccines,28515.89,86,392.08,April,2021,James Goodwill,William Lee
+CurePoint,France,Paris,Retail,Antivirals,45521.72,158,248.84,May,2022,Sarah Connor,William Lee
+LifeCare,USA,New York,Distributor,Vaccines,12624.11,128,99.23,February,2021,Peter White,David Garcia
+RemedyMart,France,Lyon,Wholesale,Antibiotics,5643.85,14,373.43,May,2020,Sarah Connor,John Doe
+Apollo Pharmacy,Germany,Munich,Distributor,Antivirals,2917.23,25,136.36,January,2023,Peter White,Michael Brown
+HealthKart,Canada,Calgary,Retail,Vitamins,347.23,4,74.82,February,2023,Sarah Connor,Priya Mehta
+BioHealth,India,Delhi,Wholesale,Antibiotics,11348.31,98,143.43,September,2022,Linda Grey,William Lee
+RemedyMart,UK,London,Online,Analgesics,44310.51,146,269.53,May,2023,James Goodwill,Amit Sharma
+PharmaPlus,Brazil,Rio de Janeiro,Retail,Vitamins,6044.09,41,144.29,October,2022,Peter White,Laura Adams
+Apollo Pharmacy,USA,Houston,Wholesale,Vaccines,42245.05,153,253.76,November,2019,Linda Grey,Priya Mehta
+HealthKart,Canada,Ottawa,Distributor,Vaccines,1539.1,117,15.39,August,2021,James Goodwill,Sophia Patel
+Apollo Pharmacy,France,Marseille,Retail,Analgesics,8757.26,57,140.58,June,2023,Linda Grey,William Lee
+HealthKart,India,Rendsburg,Distributor,Analgesics,31784.83,98,304.25,November,2017,Peter White,John Doe
+HealthZone,Germany,Hamburg,Online,Analgesics,65720.44,199,290.91,April,2021,James Goodwill,Michael Brown
+CurePoint,Canada,Vancouver,Wholesale,Vitamins,41112.33,190,264.27,June,2017,Peter White,William Lee
+PharmaPlus,India,Mumbai,Distributor,Antivirals,16719.51,54,371.64,February,2022,Raj Malhotra,Sophia Patel
+HealthZone,Canada,Toronto,Online,Vaccines,11549.17,36,387.78,July,2021,Raj Malhotra,Emily Clark
+RemedyMart,Canada,Vancouver,Online,Vitamins,1569.88,11,151.46,June,2019,Linda Grey,Priya Mehta
+BioHealth,USA,New York,Wholesale,Antivirals,42895.37,113,363.55,April,2024,James Goodwill,Robert Wilson
+LifeCare,UK,London,Distributor,Vaccines,13996.04,54,243.26,May,2018,Sarah Connor,David Garcia
+HealthKart,USA,San Francisco,Retail,Analgesics,49033.46,150,368.96,January,2024,James Goodwill,David Garcia
+HealthKart,India,Mumbai,Online,Vitamins,8546.63,36,274.52,March,2021,James Goodwill,Amit Sharma
+LifeCare,India,Rendsburg,Retail,Vitamins,21305.35,81,253.22,January,2018,James Goodwill,Emily Clark
+MediStore,Australia,Adelaide,Retail,Vaccines,35003.07,154,242.38,February,2021,Linda Grey,Emily Clark
+RemedyMart,UK,London,Online,Vitamins,14645.94,40,366.81,January,2019,Linda Grey,John Doe
+Apollo Pharmacy,Brazil,Rio de Janeiro,Online,Vitamins,51004.31,171,303.16,February,2017,James Goodwill,William Lee
+MedLife,USA,Los Angeles,Online,Antivirals,16121.95,35,411.36,April,2023,Raj Malhotra,Amit Sharma
+RemedyMart,Australia,Melbourne,Distributor,Antibiotics,66796.8,172,484.17,February,2020,Sarah Connor,Michael Brown
+HealthZone,USA,Houston,Online,Antibiotics,1876.2,12,186.88,June,2021,Peter White,Michael Brown
+BioHealth,Brazil,Brasília,Distributor,Vaccines,4454.81,49,77.04,January,2020,Raj Malhotra,Amit Sharma
+BioHealth,Canada,Vancouver,Distributor,Vaccines,12185.69,55,265.44,July,2018,Raj Malhotra,Amit Sharma
+HealthKart,Germany,Frankfurt,Retail,Antivirals,38272.13,80,437.74,March,2020,Linda Grey,Michael Brown
+MediStore,Canada,Montreal,Wholesale,Vitamins,62008.84,149,381.93,August,2021,Peter White,Robert Wilson
+MedLife,UK,London,Distributor,Antivirals,112784.12,198,490.48,January,2023,Raj Malhotra,Amit Sharma
+MedLife,India,Delhi,Retail,Antibiotics,1697.81,12,118.39,May,2023,Linda Grey,John Doe
+LifeCare,India,Chennai,Retail,Analgesics,30147.63,109,338.26,October,2018,Sarah Connor,David Garcia
+LifeCare,Canada,Calgary,Online,Antivirals,6466.64,16,463.37,October,2022,Raj Malhotra,Sophia Patel
+Apollo Pharmacy,Canada,Montreal,Online,Vaccines,32086.51,86,458.59,June,2017,Linda Grey,Michael Brown
+HealthZone,UK,London,Online,Antivirals,37782.34,117,368.2,October,2022,James Goodwill,Emily Clark
+HealthKart,UK,Manchester,Retail,Vitamins,41195.05,72,485.82,October,2018,Sarah Connor,Sophia Patel
+Apollo Pharmacy,Germany,Rendsburg,Wholesale,Vitamins,25280.45,82,375.08,August,2018,Linda Grey,Amit Sharma
+HealthKart,Australia,Sydney,Retail,Vitamins,41079.9,146,265.99,October,2017,Peter White,Robert Wilson
+LifeCare,Canada,Toronto,Distributor,Antibiotics,3773.51,14,302.17,May,2019,Sarah Connor,Priya Mehta
+MedLife,India,Rendsburg,Retail,Vitamins,53309.42,188,245.72,February,2018,James Goodwill,Sophia Patel
+HealthZone,India,Chennai,Retail,Vitamins,32902.47,171,176.54,June,2021,Linda Grey,William Lee
+HealthKart,UK,Leeds,Distributor,Vaccines,35187.58,108,290.49,June,2018,Peter White,Amit Sharma
+HealthZone,Canada,Montreal,Online,Antibiotics,1474.54,4,397.45,August,2020,Sarah Connor,David Garcia
+LifeCare,UK,Leeds,Online,Antibiotics,74818.85,161,444.13,February,2019,Linda Grey,Emily Clark
+MediStore,Brazil,Brasília,Retail,Vitamins,26625.5,126,214.58,October,2017,Peter White,Michael Brown
+HealthZone,India,Bangalore,Online,Vaccines,798.34,34,20.42,June,2017,James Goodwill,Michael Brown
+MediStore,India,Bangalore,Distributor,Vitamins,32771.97,141,198.14,September,2018,Linda Grey,John Doe
+Apollo Pharmacy,Brazil,São Paulo,Retail,Analgesics,57710.7,123,498.99,January,2019,Sarah Connor,Michael Brown
+CurePoint,France,Marseille,Distributor,Vitamins,8267.83,190,53.39,November,2022,Raj Malhotra,William Lee
+PharmaPlus,Canada,Montreal,Retail,Analgesics,49518.64,185,294.57,March,2024,Sarah Connor,William Lee
+PharmaPlus,UK,Manchester,Retail,Vitamins,45222.35,121,386.45,September,2021,Peter White,John Doe
+Apollo Pharmacy,Germany,Rendsburg,Wholesale,Antivirals,29946.89,103,266.03,December,2021,Linda Grey,Laura Adams
+MedLife,UK,Birmingham,Retail,Antivirals,10690.94,177,64.13,March,2024,James Goodwill,John Doe
+RemedyMart,UK,Leeds,Distributor,Antivirals,73434.04,158,427.88,May,2021,Raj Malhotra,Emily Clark
+LifeCare,Germany,Hamburg,Retail,Antivirals,914.75,37,30.63,November,2018,Peter White,Robert Wilson
+BioHealth,UK,Liverpool,Online,Vaccines,4444.34,73,63.64,January,2018,James Goodwill,Michael Brown
+HealthKart,UK,Leeds,Online,Antibiotics,27045.53,196,116.94,May,2021,Raj Malhotra,Amit Sharma
+MedLife,Germany,Hamburg,Distributor,Antivirals,8646.7,61,136.9,November,2020,Sarah Connor,John Doe
+Apollo Pharmacy,UK,London,Wholesale,Analgesics,20248.01,39,440.77,May,2020,Linda Grey,Robert Wilson
+CurePoint,Germany,Rendsburg,Wholesale,Antibiotics,5955.68,11,452.82,December,2022,James Goodwill,John Doe
+MedLife,Canada,Vancouver,Distributor,Vitamins,88051.35,199,495.67,April,2022,Peter White,Emily Clark
+PharmaPlus,Australia,Perth,Distributor,Antibiotics,55530.86,148,420.53,May,2019,Peter White,Amit Sharma
+HealthKart,Australia,Perth,Wholesale,Antibiotics,11782.24,110,123.03,August,2023,Linda Grey,Robert Wilson
+PharmaPlus,Australia,Perth,Distributor,Analgesics,19043.66,169,101.35,August,2018,Raj Malhotra,Sophia Patel
+MediStore,UK,Liverpool,Wholesale,Antibiotics,2539.61,6,402.38,August,2021,James Goodwill,Amit Sharma
+BioHealth,UK,Liverpool,Wholesale,Vaccines,48536.97,177,263.95,June,2024,Peter White,Laura Adams
+HealthZone,UK,Birmingham,Wholesale,Antibiotics,8439.27,61,137.51,July,2023,James Goodwill,Michael Brown
+RemedyMart,Canada,Calgary,Distributor,Analgesics,24800.91,82,351.05,February,2019,Peter White,Laura Adams
+MedLife,Canada,Ottawa,Distributor,Vaccines,39794.79,160,237.06,April,2023,Peter White,William Lee
+Apollo Pharmacy,UK,Leeds,Online,Analgesics,35409.19,125,273.12,September,2024,Raj Malhotra,Laura Adams
+HealthKart,India,Delhi,Distributor,Antivirals,60224.11,142,431.46,May,2018,James Goodwill,John Doe
+MedLife,UK,Birmingham,Retail,Vaccines,21964.46,184,140.14,September,2018,Raj Malhotra,John Doe
+CurePoint,Canada,Ottawa,Wholesale,Vitamins,4960.97,137,31.74,August,2021,Raj Malhotra,Laura Adams
+Apollo Pharmacy,Canada,Calgary,Online,Antivirals,73425.09,170,406.66,February,2024,Linda Grey,Amit Sharma
+HealthZone,Germany,Berlin,Online,Antivirals,1689.37,5,370.25,February,2020,Sarah Connor,John Doe
+HealthZone,Germany,Frankfurt,Distributor,Antivirals,21589.58,124,192.62,April,2023,Peter White,Emily Clark
+MediStore,USA,Houston,Wholesale,Analgesics,4567.5,133,33.9,November,2017,Peter White,William Lee
+HealthKart,Canada,Toronto,Wholesale,Antibiotics,4681.67,37,117.89,March,2024,James Goodwill,John Doe
+RemedyMart,Brazil,Salvador,Distributor,Antibiotics,80544.74,197,495.82,February,2024,Linda Grey,Robert Wilson
+BioHealth,India,Mumbai,Online,Vitamins,11455.38,45,245.49,March,2018,Sarah Connor,Priya Mehta
+MediStore,Germany,Frankfurt,Distributor,Antibiotics,57427.83,186,289.95,December,2020,James Goodwill,Sophia Patel
+CurePoint,Canada,Vancouver,Online,Vaccines,10417.81,40,287.21,November,2019,Raj Malhotra,Emily Clark
+HealthKart,Germany,Hamburg,Distributor,Vaccines,1827.04,6,265.42,October,2023,James Goodwill,Robert Wilson
+MedLife,France,Toulouse,Online,Analgesics,45033.36,92,426.79,April,2021,Linda Grey,Emily Clark
+HealthKart,Australia,Melbourne,Wholesale,Vaccines,26280.91,169,173.66,October,2019,Sarah Connor,William Lee
+HealthZone,UK,Manchester,Distributor,Analgesics,65079.69,181,343.27,April,2021,Raj Malhotra,Laura Adams
+Apollo Pharmacy,Brazil,Rio de Janeiro,Retail,Analgesics,19654.52,166,102.72,February,2024,Peter White,John Doe
+HealthKart,UK,Birmingham,Distributor,Vaccines,15969.36,45,437.2,January,2024,Peter White,William Lee
+HealthKart,Brazil,Salvador,Distributor,Antivirals,324.81,23,12.52,August,2018,Linda Grey,David Garcia
+HealthZone,USA,San Francisco,Distributor,Vaccines,58558.25,181,374.32,October,2024,Raj Malhotra,Priya Mehta
+LifeCare,Australia,Adelaide,Online,Vitamins,31153.29,100,282.53,July,2017,Peter White,Priya Mehta
+HealthZone,Australia,Brisbane,Retail,Analgesics,144.14,12,13.13,July,2018,Peter White,Sophia Patel
+RemedyMart,USA,Chicago,Wholesale,Antivirals,8004.84,46,169.95,April,2017,Peter White,Robert Wilson
+LifeCare,Germany,Munich,Retail,Antivirals,15044.6,104,137.3,June,2022,James Goodwill,John Doe
+Apollo Pharmacy,Germany,Berlin,Distributor,Antivirals,30803.93,88,411.15,March,2018,Sarah Connor,John Doe
+CurePoint,France,Marseille,Retail,Analgesics,2925.25,158,19.03,September,2020,Sarah Connor,Laura Adams
+MediStore,India,Mumbai,Online,Antibiotics,11102.75,63,202.15,March,2021,Peter White,Priya Mehta
+MediStore,USA,Houston,Online,Antivirals,2618.26,37,60.23,May,2019,James Goodwill,Michael Brown
+MediStore,Brazil,São Paulo,Retail,Vitamins,43880.69,96,387.72,February,2022,Peter White,Michael Brown
+CurePoint,Germany,Munich,Online,Antibiotics,56681.79,192,357.0,February,2024,James Goodwill,Sophia Patel
+MediStore,France,Marseille,Distributor,Vitamins,27496.2,138,242.05,March,2024,Peter White,Priya Mehta
+RemedyMart,USA,San Francisco,Online,Analgesics,4467.19,120,32.41,April,2017,Raj Malhotra,David Garcia
+CurePoint,Canada,Vancouver,Online,Analgesics,64107.43,192,341.27,October,2020,James Goodwill,Michael Brown
+Apollo Pharmacy,Germany,Frankfurt,Retail,Vitamins,55618.64,180,381.55,January,2019,James Goodwill,Robert Wilson
+RemedyMart,Australia,Sydney,Wholesale,Antibiotics,54403.28,139,412.54,January,2023,Raj Malhotra,Laura Adams
+HealthKart,UK,Liverpool,Retail,Antivirals,66545.73,160,387.5,July,2017,James Goodwill,Amit Sharma
+HealthKart,Brazil,Rio de Janeiro,Retail,Antibiotics,2256.13,26,87.88,April,2021,James Goodwill,Michael Brown
+CurePoint,USA,Los Angeles,Retail,Analgesics,858.3,4,218.83,April,2023,Peter White,Priya Mehta
+Apollo Pharmacy,Australia,Perth,Retail,Analgesics,11825.19,39,268.24,July,2021,Sarah Connor,Sophia Patel
+RemedyMart,UK,Birmingham,Online,Antibiotics,7382.87,75,118.18,May,2024,Sarah Connor,David Garcia
+RemedyMart,Brazil,Fortaleza,Distributor,Analgesics,25260.13,84,330.71,November,2022,Peter White,William Lee
+MediStore,Australia,Sydney,Online,Antivirals,31721.78,81,481.99,December,2022,Sarah Connor,Emily Clark
+BioHealth,USA,Houston,Online,Analgesics,10936.91,21,455.67,March,2021,Raj Malhotra,Laura Adams
+BioHealth,UK,Manchester,Distributor,Antivirals,15651.04,84,204.82,June,2022,James Goodwill,Emily Clark
+BioHealth,UK,Manchester,Online,Vitamins,19804.9,131,162.86,July,2022,Peter White,John Doe
+RemedyMart,Germany,Frankfurt,Retail,Analgesics,18027.84,166,122.68,October,2024,Peter White,Michael Brown
+HealthKart,France,Marseille,Retail,Antivirals,30259.8,64,435.38,January,2024,Sarah Connor,John Doe
+LifeCare,USA,Los Angeles,Online,Antibiotics,7720.1,18,433.54,November,2023,James Goodwill,Laura Adams
+RemedyMart,India,Rendsburg,Wholesale,Vitamins,5586.96,72,88.03,November,2019,Linda Grey,Laura Adams
+LifeCare,Canada,Toronto,Online,Antivirals,40255.17,93,390.53,November,2017,Peter White,John Doe
+PharmaPlus,Germany,Frankfurt,Online,Antibiotics,37901.4,174,269.87,May,2022,Linda Grey,William Lee
+PharmaPlus,Australia,Brisbane,Online,Antibiotics,5618.58,93,74.31,June,2020,Linda Grey,Laura Adams
+CurePoint,Australia,Melbourne,Wholesale,Antivirals,25390.49,60,484.08,September,2023,Sarah Connor,Laura Adams
+Apollo Pharmacy,Brazil,São Paulo,Distributor,Analgesics,3124.51,15,245.95,December,2023,Peter White,John Doe
+Apollo Pharmacy,UK,London,Wholesale,Analgesics,4700.83,17,307.58,March,2022,Sarah Connor,John Doe
+MediStore,UK,Manchester,Online,Vaccines,971.06,9,108.26,March,2020,Linda Grey,David Garcia
+RemedyMart,Brazil,São Paulo,Wholesale,Vitamins,19297.85,63,329.24,October,2023,Raj Malhotra,Sophia Patel
+HealthKart,USA,New York,Wholesale,Antivirals,48151.64,130,400.8,August,2021,Peter White,Michael Brown
+HealthZone,UK,Birmingham,Retail,Analgesics,18345.9,72,237.65,August,2023,Sarah Connor,Sophia Patel
+LifeCare,UK,Birmingham,Online,Vitamins,20908.26,82,245.17,April,2020,Linda Grey,David Garcia
+MedLife,UK,London,Retail,Vaccines,11713.58,32,331.92,November,2022,Peter White,Michael Brown
+CurePoint,India,Mumbai,Online,Vitamins,50554.74,102,454.83,November,2020,Peter White,Laura Adams
+HealthKart,Brazil,Rio de Janeiro,Wholesale,Antivirals,9859.78,179,61.42,December,2020,Peter White,Priya Mehta
+MedLife,Brazil,Salvador,Wholesale,Vitamins,28304.41,121,289.74,June,2019,Sarah Connor,Robert Wilson
+HealthZone,Brazil,Brasília,Online,Vitamins,18264.99,54,312.9,June,2022,James Goodwill,Priya Mehta
+PharmaPlus,USA,New York,Retail,Antibiotics,2312.24,168,14.79,April,2024,Sarah Connor,John Doe
+LifeCare,Germany,Berlin,Wholesale,Vaccines,626.73,2,271.78,November,2022,Peter White,Michael Brown
+MediStore,India,Bangalore,Online,Vitamins,3450.99,158,26.27,April,2024,Sarah Connor,John Doe
+HealthZone,Canada,Montreal,Distributor,Vitamins,29982.49,150,167.83,August,2024,Raj Malhotra,Emily Clark
+BioHealth,Australia,Melbourne,Online,Antivirals,35069.62,90,347.84,December,2023,Peter White,Emily Clark
+CurePoint,Canada,Ottawa,Online,Analgesics,8215.74,106,92.07,November,2022,Raj Malhotra,Sophia Patel
+HealthZone,Germany,Rendsburg,Retail,Vitamins,17655.6,61,356.17,June,2017,Peter White,Laura Adams
+RemedyMart,Canada,Montreal,Distributor,Vitamins,1957.45,6,312.14,December,2022,Peter White,Robert Wilson
+PharmaPlus,France,Paris,Distributor,Vaccines,16829.67,41,357.44,June,2023,Raj Malhotra,Sophia Patel
+RemedyMart,Australia,Perth,Retail,Antivirals,62704.06,178,316.4,January,2021,Raj Malhotra,Michael Brown
+Apollo Pharmacy,Australia,Sydney,Retail,Antivirals,37798.07,111,409.26,November,2023,Peter White,David Garcia
+CurePoint,Brazil,São Paulo,Wholesale,Vaccines,24521.71,84,280.97,November,2024,Raj Malhotra,William Lee
+MediStore,Canada,Toronto,Distributor,Vaccines,5388.75,22,231.64,October,2024,Linda Grey,David Garcia
+HealthKart,Brazil,Salvador,Distributor,Vitamins,3613.78,41,90.36,April,2017,Sarah Connor,Amit Sharma
+CurePoint,Germany,Hamburg,Online,Vitamins,1358.75,12,131.08,January,2024,Peter White,Laura Adams
+LifeCare,Canada,Vancouver,Distributor,Antivirals,13067.6,45,311.71,January,2024,Sarah Connor,Laura Adams
+PharmaPlus,Brazil,São Paulo,Retail,Vitamins,43043.03,100,374.7,September,2020,Peter White,Emily Clark
+HealthKart,Australia,Melbourne,Retail,Vaccines,17624.08,53,332.77,January,2024,James Goodwill,Amit Sharma
+CurePoint,India,Rendsburg,Retail,Vitamins,1759.69,82,20.22,January,2024,Peter White,Robert Wilson
+CurePoint,France,Marseille,Retail,Antibiotics,21934.22,37,498.2,January,2020,James Goodwill,Emily Clark
+HealthZone,UK,Birmingham,Online,Antibiotics,6290.25,131,49.95,March,2017,James Goodwill,William Lee
+MedLife,Germany,Munich,Distributor,Antibiotics,6966.62,189,45.38,June,2020,Raj Malhotra,William Lee
+HealthKart,UK,Manchester,Online,Antibiotics,35584.19,97,421.82,July,2022,James Goodwill,Amit Sharma
+PharmaPlus,Canada,Calgary,Distributor,Vaccines,38700.52,159,213.79,July,2018,Linda Grey,Laura Adams
+CurePoint,Canada,Calgary,Distributor,Vaccines,6299.25,37,179.51,August,2020,Peter White,Robert Wilson
+HealthKart,UK,Liverpool,Retail,Antibiotics,5236.55,20,257.37,August,2024,Sarah Connor,Amit Sharma
+HealthZone,Brazil,São Paulo,Retail,Vaccines,51255.26,179,293.55,November,2020,Raj Malhotra,Priya Mehta
+MedLife,Germany,Frankfurt,Wholesale,Antivirals,24857.41,117,203.8,February,2020,Linda Grey,Michael Brown
+CurePoint,France,Marseille,Online,Vaccines,34539.42,79,451.34,March,2024,Peter White,Sophia Patel
+LifeCare,UK,Manchester,Retail,Vitamins,77053.14,170,496.15,February,2021,Raj Malhotra,Laura Adams
+BioHealth,USA,Houston,Wholesale,Vitamins,14848.61,125,113.22,November,2019,James Goodwill,William Lee
+BioHealth,USA,Houston,Distributor,Vaccines,15011.64,40,419.64,January,2021,Sarah Connor,Sophia Patel
+MediStore,Brazil,Fortaleza,Wholesale,Analgesics,10914.11,26,360.75,December,2024,Sarah Connor,Robert Wilson
+HealthKart,India,Rendsburg,Online,Vitamins,26419.09,87,319.94,May,2023,Peter White,John Doe
+BioHealth,France,Paris,Wholesale,Antibiotics,225.34,2,98.68,March,2017,Raj Malhotra,Amit Sharma
+MediStore,Australia,Adelaide,Retail,Antibiotics,6174.11,41,131.14,May,2018,Linda Grey,Robert Wilson
+Apollo Pharmacy,Germany,Hamburg,Wholesale,Vitamins,34418.51,111,300.53,March,2019,Raj Malhotra,Amit Sharma
+PharmaPlus,Brazil,Rio de Janeiro,Distributor,Vaccines,21848.3,84,300.55,September,2023,Sarah Connor,Robert Wilson
+Apollo Pharmacy,Canada,Calgary,Retail,Antibiotics,19233.49,123,162.95,August,2021,Linda Grey,Sophia Patel
+CurePoint,India,Bangalore,Online,Vitamins,50301.67,163,331.8,February,2019,Peter White,Emily Clark
+HealthKart,Germany,Munich,Online,Antivirals,48859.42,168,303.37,September,2024,James Goodwill,Emily Clark
+MedLife,France,Marseille,Retail,Antivirals,31381.95,151,232.36,August,2018,Peter White,William Lee
+HealthKart,UK,Birmingham,Wholesale,Antibiotics,41196.19,195,226.59,August,2019,Peter White,Sophia Patel
+RemedyMart,USA,Chicago,Online,Antivirals,18429.71,93,175.13,August,2022,Raj Malhotra,Laura Adams
+PharmaPlus,Canada,Toronto,Retail,Antivirals,238.31,1,230.22,February,2024,Raj Malhotra,Robert Wilson
+Apollo Pharmacy,Germany,Munich,Wholesale,Antibiotics,126.21,1,133.74,July,2022,Linda Grey,Amit Sharma
+HealthZone,Australia,Perth,Online,Vitamins,857.22,28,27.97,November,2021,Raj Malhotra,Amit Sharma
+MedLife,India,Bangalore,Retail,Vaccines,70186.58,165,393.08,May,2021,Peter White,Laura Adams
+CurePoint,Germany,Rendsburg,Online,Analgesics,19070.47,56,296.82,May,2017,Raj Malhotra,William Lee
+LifeCare,UK,Leeds,Retail,Antibiotics,24126.61,108,274.55,July,2023,Linda Grey,William Lee
+LifeCare,Germany,Berlin,Wholesale,Antibiotics,2998.59,78,37.97,August,2017,Sarah Connor,Michael Brown
+RemedyMart,USA,Houston,Retail,Antivirals,746.17,20,35.33,September,2021,Sarah Connor,Laura Adams
+Apollo Pharmacy,UK,Manchester,Online,Antivirals,9511.97,35,231.58,June,2022,James Goodwill,David Garcia
+MediStore,Brazil,Brasília,Wholesale,Vaccines,4324.44,69,60.62,June,2019,Linda Grey,Michael Brown
+BioHealth,France,Marseille,Retail,Analgesics,1185.43,12,82.69,October,2019,Sarah Connor,John Doe
+BioHealth,Australia,Brisbane,Online,Antivirals,740.02,43,18.52,June,2022,Raj Malhotra,William Lee
+BioHealth,USA,Chicago,Retail,Antibiotics,12394.59,29,435.28,October,2023,James Goodwill,William Lee
+CurePoint,Brazil,Fortaleza,Distributor,Vitamins,45517.64,171,249.53,October,2019,Raj Malhotra,Amit Sharma
+HealthZone,Canada,Calgary,Wholesale,Antibiotics,5131.52,84,71.61,July,2022,Raj Malhotra,Laura Adams
+CurePoint,UK,Manchester,Retail,Antibiotics,16271.77,52,355.29,December,2024,Peter White,John Doe
+LifeCare,India,Mumbai,Retail,Antivirals,9330.1,119,89.57,October,2022,Peter White,John Doe
+BioHealth,Australia,Sydney,Distributor,Vaccines,618.67,8,86.52,May,2023,Peter White,John Doe
+HealthKart,USA,Chicago,Distributor,Antivirals,12369.78,86,135.1,August,2024,James Goodwill,Amit Sharma
+LifeCare,Canada,Ottawa,Distributor,Antivirals,60394.91,119,472.86,September,2023,Linda Grey,Michael Brown
+HealthKart,Brazil,São Paulo,Online,Analgesics,16733.68,114,129.63,June,2020,Raj Malhotra,John Doe
+PharmaPlus,Brazil,São Paulo,Online,Antibiotics,11054.4,47,289.6,January,2017,Linda Grey,Robert Wilson
+HealthZone,Canada,Montreal,Wholesale,Antibiotics,33606.36,72,399.8,July,2017,Linda Grey,William Lee
+LifeCare,USA,New York,Retail,Antivirals,123.03,1,115.68,March,2020,Sarah Connor,John Doe
+HealthKart,India,Rendsburg,Retail,Vitamins,18402.61,53,336.82,May,2021,Linda Grey,William Lee
+BioHealth,Brazil,Rio de Janeiro,Distributor,Vitamins,75758.71,190,332.34,September,2021,Sarah Connor,John Doe
+HealthZone,Australia,Melbourne,Retail,Analgesics,37656.13,198,165.87,January,2021,Linda Grey,Amit Sharma
+LifeCare,UK,Manchester,Distributor,Analgesics,43253.44,89,436.67,July,2020,Linda Grey,Priya Mehta
+CurePoint,UK,London,Retail,Vaccines,9838.93,77,151.46,January,2018,Raj Malhotra,Michael Brown
+RemedyMart,Brazil,Salvador,Retail,Analgesics,18976.43,98,208.03,June,2021,Sarah Connor,John Doe
+HealthZone,USA,New York,Online,Vitamins,26599.12,102,224.7,July,2018,Peter White,Laura Adams
+LifeCare,Germany,Frankfurt,Retail,Antivirals,55074.51,141,400.93,March,2023,Raj Malhotra,Michael Brown
+CurePoint,Germany,Munich,Retail,Vitamins,13373.29,75,194.08,February,2024,Raj Malhotra,John Doe
+PharmaPlus,France,Nice,Distributor,Vitamins,2372.17,199,12.82,November,2020,James Goodwill,Robert Wilson
+CurePoint,India,Mumbai,Distributor,Analgesics,24065.89,76,308.82,December,2022,James Goodwill,Laura Adams
+HealthKart,UK,Birmingham,Distributor,Analgesics,28852.79,147,200.39,December,2022,Peter White,William Lee
+HealthKart,Germany,Rendsburg,Wholesale,Antibiotics,13289.93,49,277.39,June,2021,Raj Malhotra,Michael Brown
+MediStore,India,Delhi,Retail,Antivirals,4872.34,102,45.87,June,2024,Peter White,Sophia Patel
+HealthKart,France,Lyon,Retail,Analgesics,39441.63,110,324.86,February,2018,Raj Malhotra,Priya Mehta
+Apollo Pharmacy,Canada,Toronto,Online,Vaccines,2021.4,9,196.1,December,2022,James Goodwill,William Lee
+HealthKart,India,Chennai,Distributor,Antibiotics,23786.32,48,425.11,October,2024,Peter White,William Lee
+PharmaPlus,Germany,Frankfurt,Online,Analgesics,8388.79,154,63.37,March,2019,Sarah Connor,Priya Mehta
+HealthZone,USA,Chicago,Wholesale,Antivirals,14315.3,48,294.28,March,2018,Linda Grey,Emily Clark
+MediStore,Canada,Toronto,Retail,Vaccines,3108.86,15,203.24,November,2024,Raj Malhotra,William Lee
+PharmaPlus,Canada,Toronto,Online,Antibiotics,19679.63,46,361.88,April,2020,Peter White,Michael Brown
+MediStore,Australia,Adelaide,Wholesale,Vaccines,1786.35,21,105.93,February,2023,Raj Malhotra,Sophia Patel
+Apollo Pharmacy,USA,Los Angeles,Online,Vitamins,2495.75,47,44.93,March,2019,Peter White,Laura Adams
+PharmaPlus,Australia,Brisbane,Wholesale,Vaccines,13773.3,36,464.25,May,2024,Peter White,Michael Brown
+LifeCare,Australia,Melbourne,Distributor,Antibiotics,4512.71,21,244.8,August,2018,Raj Malhotra,John Doe
+BioHealth,France,Marseille,Retail,Antivirals,17467.67,78,248.08,June,2017,Linda Grey,Amit Sharma
+MediStore,Germany,Rendsburg,Retail,Vaccines,20617.63,52,338.35,September,2022,Peter White,Amit Sharma
+BioHealth,Germany,Berlin,Retail,Analgesics,39545.22,156,274.19,November,2020,Raj Malhotra,Sophia Patel
+MedLife,Australia,Melbourne,Online,Vaccines,56934.35,164,361.64,August,2020,Sarah Connor,Robert Wilson
+LifeCare,India,Chennai,Wholesale,Vitamins,13896.89,77,212.64,May,2021,Peter White,Sophia Patel
+MediStore,UK,Leeds,Distributor,Vaccines,2099.63,7,343.75,March,2021,Raj Malhotra,Priya Mehta
+RemedyMart,UK,London,Online,Vitamins,13003.62,141,100.45,November,2020,James Goodwill,Robert Wilson
+BioHealth,France,Toulouse,Distributor,Analgesics,19991.51,170,100.76,September,2021,Sarah Connor,Emily Clark
+BioHealth,Brazil,Brasília,Online,Antibiotics,23281.84,84,246.94,February,2019,Raj Malhotra,Sophia Patel
+BioHealth,UK,Liverpool,Online,Analgesics,25163.51,129,193.02,February,2018,Linda Grey,Sophia Patel
+MedLife,UK,Manchester,Wholesale,Antibiotics,23290.6,47,476.19,March,2024,Linda Grey,Priya Mehta
+HealthZone,Australia,Sydney,Online,Antibiotics,32126.6,118,262.44,January,2017,Peter White,Emily Clark
+CurePoint,UK,Manchester,Distributor,Analgesics,3092.86,26,113.9,July,2024,Raj Malhotra,Amit Sharma
+PharmaPlus,France,Toulouse,Wholesale,Vaccines,26486.8,122,186.78,September,2019,Linda Grey,Laura Adams
+Apollo Pharmacy,France,Paris,Online,Vaccines,24912.8,152,183.18,January,2019,James Goodwill,Michael Brown
+MedLife,India,Mumbai,Distributor,Analgesics,6388.82,37,158.01,January,2019,James Goodwill,Sophia Patel
+MedLife,France,Lyon,Online,Antibiotics,23221.56,100,217.63,July,2021,Sarah Connor,Michael Brown
+BioHealth,France,Nice,Online,Antibiotics,48416.8,146,385.66,March,2019,Peter White,Emily Clark
+BioHealth,USA,Houston,Distributor,Vitamins,47203.32,183,297.44,January,2020,Raj Malhotra,David Garcia
+HealthZone,USA,Los Angeles,Retail,Analgesics,41443.42,108,432.77,September,2017,Raj Malhotra,Michael Brown
+LifeCare,Brazil,Salvador,Retail,Analgesics,3420.82,150,21.58,September,2017,Linda Grey,Laura Adams
+Apollo Pharmacy,Canada,Ottawa,Retail,Antivirals,49368.99,199,277.88,August,2024,Linda Grey,Robert Wilson
+RemedyMart,India,Mumbai,Retail,Antibiotics,20531.7,78,319.69,May,2024,Peter White,Michael Brown
+LifeCare,Australia,Melbourne,Retail,Analgesics,64591.86,153,494.01,May,2017,Peter White,Sophia Patel
+MediStore,Canada,Calgary,Retail,Vaccines,28334.15,85,341.16,August,2023,Linda Grey,Laura Adams
+CurePoint,USA,Chicago,Retail,Vitamins,48681.94,125,361.62,October,2023,Raj Malhotra,Laura Adams
+HealthKart,Australia,Adelaide,Distributor,Vaccines,1472.74,24,72.91,December,2019,Sarah Connor,Sophia Patel
+HealthZone,Canada,Ottawa,Online,Vitamins,27224.27,102,293.41,June,2020,Peter White,David Garcia
+HealthZone,France,Nice,Retail,Vaccines,2165.92,36,51.97,December,2024,Peter White,Emily Clark
+CurePoint,Germany,Frankfurt,Wholesale,Antibiotics,25621.81,131,206.58,August,2021,James Goodwill,Emily Clark
+LifeCare,Canada,Vancouver,Distributor,Vaccines,10658.77,70,183.95,January,2024,Peter White,David Garcia
+RemedyMart,Australia,Melbourne,Wholesale,Antibiotics,21851.11,49,417.61,July,2020,James Goodwill,John Doe
+PharmaPlus,Australia,Adelaide,Distributor,Vitamins,21760.22,172,124.52,May,2021,Peter White,Emily Clark
+PharmaPlus,UK,London,Retail,Vitamins,15315.09,50,343.26,November,2023,Sarah Connor,Laura Adams
+HealthZone,UK,London,Online,Antivirals,10724.78,58,173.17,July,2022,James Goodwill,Priya Mehta
+HealthKart,Brazil,Fortaleza,Retail,Antivirals,58828.61,172,334.3,July,2023,Raj Malhotra,Emily Clark
+MediStore,India,Chennai,Wholesale,Antivirals,20921.46,98,228.71,June,2024,Sarah Connor,Michael Brown
+RemedyMart,India,Rendsburg,Retail,Vitamins,50669.44,150,285.53,February,2022,James Goodwill,Laura Adams
+HealthKart,USA,New York,Online,Antivirals,27247.56,77,321.13,March,2019,James Goodwill,David Garcia
+MediStore,USA,Houston,Wholesale,Vitamins,12572.34,55,272.56,August,2021,Linda Grey,Sophia Patel
+LifeCare,Canada,Toronto,Retail,Antivirals,39973.09,121,412.69,November,2022,James Goodwill,Emily Clark
+CurePoint,USA,Chicago,Wholesale,Antivirals,54071.43,144,335.81,November,2019,Raj Malhotra,John Doe
+BioHealth,Australia,Adelaide,Online,Analgesics,24107.85,144,197.44,September,2022,Raj Malhotra,David Garcia
+HealthKart,USA,Los Angeles,Retail,Vaccines,11656.56,115,84.68,October,2019,Peter White,Michael Brown
+MediStore,Australia,Adelaide,Distributor,Antivirals,36084.68,104,386.61,June,2018,James Goodwill,Priya Mehta
+PharmaPlus,UK,Birmingham,Distributor,Antivirals,8351.5,30,265.27,November,2021,James Goodwill,David Garcia
+PharmaPlus,India,Mumbai,Distributor,Antivirals,2625.48,32,72.58,March,2019,James Goodwill,Michael Brown
+BioHealth,Brazil,Salvador,Distributor,Vaccines,2761.5,38,88.06,April,2020,James Goodwill,Emily Clark
+MediStore,France,Lyon,Distributor,Vitamins,5166.31,36,158.53,March,2023,Peter White,Priya Mehta
+RemedyMart,France,Paris,Online,Antivirals,12181.07,66,196.65,June,2024,Peter White,Laura Adams
+RemedyMart,Germany,Munich,Distributor,Vaccines,29553.85,193,159.71,March,2021,Raj Malhotra,David Garcia
+Apollo Pharmacy,Canada,Ottawa,Distributor,Vitamins,81875.46,151,471.77,February,2019,Linda Grey,Michael Brown
+MediStore,Brazil,Brasília,Retail,Analgesics,2759.64,6,460.5,December,2022,Peter White,Sophia Patel
+HealthKart,France,Paris,Wholesale,Vaccines,23657.28,86,287.62,May,2022,Peter White,Amit Sharma
+RemedyMart,USA,Chicago,Online,Antivirals,4733.79,12,465.99,July,2021,Peter White,Michael Brown
+HealthZone,France,Toulouse,Wholesale,Antibiotics,27867.74,82,317.7,December,2024,Linda Grey,Robert Wilson
+HealthZone,Brazil,Salvador,Distributor,Antibiotics,49192.01,158,363.5,May,2018,Peter White,John Doe
+MediStore,UK,Birmingham,Wholesale,Analgesics,928.11,7,159.29,September,2022,Linda Grey,Sophia Patel
+RemedyMart,USA,New York,Online,Vaccines,2723.93,149,21.22,September,2018,Raj Malhotra,William Lee
+HealthZone,Germany,Munich,Online,Antivirals,34842.22,163,179.59,December,2023,Linda Grey,Laura Adams
+MedLife,Australia,Sydney,Wholesale,Antivirals,3523.1,10,413.02,July,2017,James Goodwill,William Lee
+RemedyMart,USA,San Francisco,Retail,Antivirals,9217.61,54,163.73,January,2020,Peter White,Robert Wilson
+HealthKart,France,Marseille,Retail,Vitamins,22073.02,65,307.06,October,2024,Raj Malhotra,Emily Clark
+HealthKart,Canada,Vancouver,Online,Antibiotics,24447.69,125,165.59,June,2022,Peter White,William Lee
+Apollo Pharmacy,Germany,Berlin,Online,Vitamins,10370.26,134,81.72,May,2018,Sarah Connor,William Lee
+MediStore,Australia,Brisbane,Wholesale,Antivirals,33310.06,136,244.33,January,2020,Linda Grey,Laura Adams
+BioHealth,France,Toulouse,Retail,Antivirals,38826.75,79,481.93,January,2022,Linda Grey,John Doe
+PharmaPlus,Germany,Rendsburg,Wholesale,Analgesics,2317.84,32,69.8,April,2024,Peter White,Emily Clark
+HealthZone,USA,Houston,Online,Antibiotics,7804.79,31,258.01,January,2023,Peter White,Robert Wilson
+CurePoint,Germany,Berlin,Retail,Vitamins,20509.49,60,427.21,January,2017,Raj Malhotra,Michael Brown
+Apollo Pharmacy,UK,Liverpool,Distributor,Vaccines,14294.97,43,313.6,August,2018,James Goodwill,Priya Mehta
+MedLife,UK,Manchester,Retail,Vitamins,1381.33,31,40.06,March,2020,Raj Malhotra,Laura Adams
+CurePoint,USA,San Francisco,Retail,Vitamins,1130.59,10,113.76,December,2022,James Goodwill,Emily Clark
+MedLife,Australia,Perth,Distributor,Vaccines,7351.17,178,38.31,December,2021,Peter White,David Garcia
+CurePoint,UK,Manchester,Online,Vaccines,6449.02,83,93.63,July,2020,Sarah Connor,Robert Wilson
+RemedyMart,USA,Houston,Wholesale,Vitamins,20793.29,156,158.6,October,2018,Sarah Connor,Amit Sharma
+HealthKart,Germany,Hamburg,Retail,Antibiotics,29229.19,80,348.89,January,2018,James Goodwill,Robert Wilson
+HealthKart,Germany,Munich,Wholesale,Vitamins,2243.88,4,498.38,December,2017,Sarah Connor,John Doe
+CurePoint,Canada,Calgary,Distributor,Antivirals,10584.93,103,118.19,May,2019,James Goodwill,John Doe
+BioHealth,UK,Liverpool,Wholesale,Vitamins,42692.27,164,268.25,April,2023,Linda Grey,William Lee
+PharmaPlus,France,Marseille,Wholesale,Vitamins,24127.04,63,398.13,December,2023,Peter White,Emily Clark
+HealthKart,Canada,Calgary,Retail,Antibiotics,1858.74,7,267.5,January,2020,Linda Grey,Emily Clark
+MediStore,Germany,Berlin,Online,Vaccines,81444.74,199,369.47,January,2024,Raj Malhotra,Sophia Patel
+PharmaPlus,Brazil,Rio de Janeiro,Online,Antivirals,38855.23,183,213.92,June,2018,James Goodwill,Amit Sharma
+MediStore,Germany,Hamburg,Wholesale,Antibiotics,25013.23,79,295.25,July,2023,Sarah Connor,Amit Sharma
+BioHealth,India,Rendsburg,Distributor,Vaccines,28953.57,120,272.3,September,2018,Raj Malhotra,Michael Brown
+LifeCare,India,Rendsburg,Wholesale,Antibiotics,86298.59,181,402.75,December,2018,Sarah Connor,Michael Brown
+CurePoint,France,Marseille,Retail,Vitamins,28537.36,164,191.99,December,2017,Peter White,Amit Sharma
+RemedyMart,USA,San Francisco,Wholesale,Analgesics,36791.14,139,232.64,November,2021,Sarah Connor,David Garcia
+BioHealth,Germany,Frankfurt,Retail,Antibiotics,12944.26,183,83.13,May,2019,James Goodwill,Robert Wilson
+BioHealth,France,Paris,Retail,Antivirals,6294.89,34,169.09,July,2017,Raj Malhotra,Michael Brown
+CurePoint,Germany,Berlin,Distributor,Analgesics,74273.49,180,431.19,July,2023,Linda Grey,Robert Wilson
+BioHealth,India,Chennai,Wholesale,Analgesics,22199.34,42,447.12,February,2023,Peter White,Sophia Patel
+HealthKart,Australia,Brisbane,Retail,Analgesics,6658.94,17,332.76,June,2024,Linda Grey,Sophia Patel
+Apollo Pharmacy,USA,Houston,Wholesale,Analgesics,26312.82,130,224.43,January,2017,Raj Malhotra,Michael Brown
+LifeCare,Canada,Toronto,Online,Vitamins,4198.44,10,465.86,March,2018,Sarah Connor,Laura Adams
+HealthZone,Brazil,Brasília,Retail,Antibiotics,8684.68,21,414.31,September,2017,Raj Malhotra,Robert Wilson
+MediStore,India,Mumbai,Wholesale,Vitamins,3785.08,8,448.61,July,2022,James Goodwill,Laura Adams
+LifeCare,India,Chennai,Online,Antibiotics,34522.57,79,445.8,September,2020,Sarah Connor,John Doe
+CurePoint,Canada,Montreal,Wholesale,Vaccines,15832.59,173,83.58,April,2023,James Goodwill,Laura Adams
+BioHealth,India,Bangalore,Wholesale,Analgesics,35918.62,193,227.2,December,2024,James Goodwill,Emily Clark
+RemedyMart,UK,Liverpool,Online,Analgesics,26031.18,87,361.0,January,2023,Linda Grey,John Doe
+HealthZone,UK,Manchester,Retail,Vaccines,7627.5,152,61.63,January,2023,James Goodwill,Laura Adams
+Apollo Pharmacy,India,Bangalore,Distributor,Vaccines,51737.87,148,371.38,September,2019,Peter White,Michael Brown
+HealthKart,Canada,Vancouver,Wholesale,Antivirals,64817.96,110,495.88,June,2023,James Goodwill,Michael Brown
+BioHealth,UK,London,Wholesale,Antibiotics,50111.78,135,394.08,February,2024,Peter White,Robert Wilson
+Apollo Pharmacy,USA,New York,Online,Antivirals,11521.3,186,58.21,September,2024,Peter White,Emily Clark
+LifeCare,Brazil,São Paulo,Retail,Antivirals,4065.37,96,43.67,October,2021,James Goodwill,William Lee
+Apollo Pharmacy,Brazil,Rio de Janeiro,Distributor,Antibiotics,6622.91,111,50.26,April,2018,Sarah Connor,Michael Brown
+Apollo Pharmacy,UK,Birmingham,Retail,Vitamins,55245.09,136,386.92,June,2023,Peter White,William Lee
+Apollo Pharmacy,Australia,Melbourne,Wholesale,Analgesics,52575.1,194,337.0,May,2021,James Goodwill,Laura Adams
+Apollo Pharmacy,UK,Liverpool,Wholesale,Analgesics,12440.3,36,311.36,May,2021,Linda Grey,Emily Clark
+CurePoint,USA,New York,Online,Vaccines,80466.36,169,480.31,November,2017,Raj Malhotra,Robert Wilson
+BioHealth,France,Toulouse,Retail,Analgesics,16270.33,114,167.89,July,2017,Peter White,William Lee
+MedLife,France,Nice,Retail,Antivirals,46425.15,91,490.19,July,2024,James Goodwill,Laura Adams
+CurePoint,USA,San Francisco,Retail,Antivirals,84125.04,181,460.95,November,2023,Raj Malhotra,Laura Adams
+PharmaPlus,France,Nice,Retail,Vitamins,9034.57,32,331.67,April,2017,Sarah Connor,David Garcia
+Apollo Pharmacy,Brazil,Salvador,Retail,Analgesics,1002.51,15,64.3,March,2019,Raj Malhotra,Emily Clark
+PharmaPlus,Germany,Berlin,Wholesale,Analgesics,30314.19,153,194.24,May,2024,James Goodwill,Sophia Patel
+PharmaPlus,Germany,Rendsburg,Distributor,Antibiotics,48238.12,114,472.11,August,2017,Raj Malhotra,John Doe
+MediStore,France,Marseille,Online,Antivirals,21204.72,172,106.76,October,2020,James Goodwill,John Doe
+MedLife,Canada,Montreal,Retail,Antivirals,63637.9,120,496.28,July,2018,Raj Malhotra,John Doe
+CurePoint,USA,Houston,Retail,Vitamins,47390.89,119,440.84,April,2019,Sarah Connor,Priya Mehta
+HealthZone,Brazil,Rio de Janeiro,Retail,Antibiotics,25765.15,175,133.6,March,2022,James Goodwill,Emily Clark
+CurePoint,UK,Leeds,Online,Vitamins,80161.56,149,489.41,November,2020,Raj Malhotra,Sophia Patel
+HealthKart,Australia,Brisbane,Distributor,Antivirals,10923.36,135,98.49,February,2024,Peter White,William Lee
+CurePoint,Canada,Montreal,Wholesale,Vitamins,29591.32,86,379.06,March,2023,Linda Grey,Amit Sharma
+CurePoint,France,Nice,Retail,Vitamins,2482.37,92,31.16,November,2018,Linda Grey,Robert Wilson
+BioHealth,India,Chennai,Retail,Analgesics,8391.08,29,345.8,July,2020,Sarah Connor,John Doe
+PharmaPlus,Australia,Melbourne,Distributor,Antivirals,5744.42,50,114.62,October,2024,Linda Grey,Emily Clark
+Apollo Pharmacy,UK,London,Retail,Antivirals,15101.96,88,177.77,December,2020,Sarah Connor,Emily Clark
+CurePoint,Australia,Brisbane,Retail,Vitamins,49544.69,165,299.27,August,2021,Raj Malhotra,William Lee
+MediStore,Canada,Vancouver,Retail,Vaccines,10176.76,191,61.91,September,2020,Peter White,John Doe
+HealthKart,Brazil,Fortaleza,Wholesale,Analgesics,13854.13,30,437.93,March,2024,Sarah Connor,Laura Adams
+PharmaPlus,Canada,Ottawa,Retail,Antibiotics,24623.02,128,222.56,February,2018,Raj Malhotra,Michael Brown
+HealthZone,UK,Manchester,Wholesale,Analgesics,2435.42,186,14.57,October,2022,Sarah Connor,Amit Sharma
+CurePoint,Germany,Hamburg,Wholesale,Antivirals,2013.26,5,441.91,May,2022,James Goodwill,William Lee
+PharmaPlus,USA,San Francisco,Wholesale,Analgesics,22683.86,64,402.03,December,2021,Linda Grey,Michael Brown
+HealthKart,Australia,Sydney,Wholesale,Antibiotics,4208.6,10,373.75,May,2022,Raj Malhotra,John Doe
+CurePoint,UK,London,Distributor,Antibiotics,51110.18,155,347.06,July,2022,Raj Malhotra,David Garcia
+RemedyMart,Brazil,São Paulo,Wholesale,Vitamins,30940.77,137,281.57,February,2024,Linda Grey,Priya Mehta
+Apollo Pharmacy,Brazil,Brasília,Distributor,Antivirals,42991.25,90,421.58,June,2020,Sarah Connor,Sophia Patel
+MedLife,Australia,Brisbane,Retail,Vitamins,5828.44,14,377.28,October,2024,Sarah Connor,Amit Sharma
+PharmaPlus,Brazil,Brasília,Online,Antibiotics,2925.93,20,170.2,August,2024,Sarah Connor,Emily Clark
+Apollo Pharmacy,Canada,Calgary,Distributor,Antivirals,36877.92,70,439.56,June,2023,James Goodwill,John Doe
+CurePoint,France,Nice,Distributor,Antivirals,27750.64,132,198.83,December,2020,Sarah Connor,Michael Brown
+PharmaPlus,Brazil,São Paulo,Retail,Vitamins,63586.76,138,444.24,October,2022,Peter White,William Lee
+RemedyMart,Germany,Berlin,Online,Antivirals,9922.06,37,334.89,June,2023,James Goodwill,Priya Mehta
+MedLife,Germany,Rendsburg,Online,Antivirals,1249.8,103,11.58,December,2024,Peter White,William Lee
+LifeCare,India,Chennai,Online,Antibiotics,377.63,4,98.85,September,2022,James Goodwill,John Doe
+MediStore,Brazil,Brasília,Distributor,Antibiotics,5031.15,17,298.22,October,2023,Sarah Connor,Laura Adams
+HealthZone,France,Lyon,Retail,Vitamins,4294.61,14,364.47,June,2023,Peter White,William Lee
+PharmaPlus,UK,Birmingham,Retail,Vitamins,54321.0,186,285.13,July,2020,Linda Grey,Sophia Patel
+MediStore,UK,London,Retail,Antibiotics,9195.07,24,341.47,June,2021,Peter White,David Garcia
+Apollo Pharmacy,Australia,Melbourne,Online,Vaccines,3136.85,159,21.24,November,2020,Linda Grey,John Doe
+MedLife,France,Marseille,Online,Antivirals,2477.57,63,47.76,March,2023,James Goodwill,Priya Mehta
+Apollo Pharmacy,India,Delhi,Distributor,Antibiotics,48820.2,109,375.5,July,2017,Peter White,William Lee
+CurePoint,USA,Los Angeles,Retail,Analgesics,46701.52,117,396.42,August,2024,James Goodwill,Laura Adams
+HealthKart,Brazil,Rio de Janeiro,Wholesale,Analgesics,28837.16,176,193.0,November,2022,Linda Grey,Michael Brown
+RemedyMart,Brazil,Brasília,Distributor,Vitamins,21021.1,113,222.67,March,2024,Raj Malhotra,Sophia Patel
+HealthKart,UK,London,Wholesale,Vitamins,5283.83,116,40.65,November,2017,James Goodwill,Michael Brown
+MediStore,Canada,Vancouver,Online,Antibiotics,27526.6,47,499.19,February,2021,Raj Malhotra,Sophia Patel
+Apollo Pharmacy,Germany,Rendsburg,Online,Antibiotics,4510.69,45,95.01,January,2018,Peter White,Laura Adams
+LifeCare,Australia,Perth,Retail,Antivirals,49531.41,148,394.97,March,2017,Linda Grey,John Doe
+RemedyMart,Canada,Toronto,Online,Antivirals,107843.42,198,495.65,October,2023,Linda Grey,Sophia Patel
+BioHealth,USA,Los Angeles,Online,Vitamins,30942.12,103,290.22,August,2018,Linda Grey,John Doe
+MedLife,India,Delhi,Wholesale,Analgesics,25889.84,61,490.03,July,2022,James Goodwill,Sophia Patel
+CurePoint,France,Nice,Wholesale,Analgesics,2648.15,107,21.85,September,2019,Sarah Connor,Laura Adams
+BioHealth,Germany,Rendsburg,Retail,Vitamins,48038.11,198,263.86,September,2023,James Goodwill,John Doe
+PharmaPlus,India,Mumbai,Wholesale,Analgesics,19580.92,147,137.06,May,2017,James Goodwill,Michael Brown
+Apollo Pharmacy,Australia,Perth,Distributor,Vaccines,25495.15,69,422.55,October,2021,Sarah Connor,Laura Adams
+HealthKart,UK,Manchester,Retail,Analgesics,12852.4,49,223.24,October,2021,Peter White,Laura Adams
+LifeCare,USA,Los Angeles,Wholesale,Vaccines,6275.93,100,75.41,May,2024,James Goodwill,Michael Brown
+HealthKart,India,Chennai,Wholesale,Vaccines,9628.03,39,253.27,September,2017,James Goodwill,Michael Brown
+Apollo Pharmacy,India,Rendsburg,Distributor,Antibiotics,630.42,57,13.44,February,2022,Sarah Connor,Laura Adams
+Apollo Pharmacy,Canada,Calgary,Online,Antivirals,45925.27,174,309.01,December,2018,Raj Malhotra,Sophia Patel
+HealthKart,USA,Los Angeles,Wholesale,Vitamins,14164.7,31,462.09,March,2022,Raj Malhotra,Amit Sharma
+PharmaPlus,Canada,Calgary,Distributor,Vitamins,19195.39,158,148.55,February,2021,James Goodwill,Priya Mehta
+CurePoint,Germany,Hamburg,Retail,Vaccines,10685.41,86,138.24,January,2023,Linda Grey,Laura Adams
+HealthZone,Germany,Munich,Retail,Vitamins,1682.99,14,132.28,October,2019,Linda Grey,Emily Clark
+MediStore,India,Mumbai,Online,Analgesics,45593.21,182,220.15,November,2020,Peter White,Michael Brown
+RemedyMart,India,Rendsburg,Retail,Antibiotics,2927.47,70,42.03,June,2023,Raj Malhotra,Amit Sharma
+RemedyMart,UK,Leeds,Wholesale,Antibiotics,6322.24,184,32.79,December,2020,Linda Grey,Laura Adams
+LifeCare,France,Toulouse,Distributor,Antivirals,8479.16,107,78.23,May,2024,Linda Grey,John Doe
+HealthZone,India,Mumbai,Wholesale,Vaccines,52162.13,161,388.21,August,2020,Peter White,Michael Brown
+BioHealth,India,Chennai,Distributor,Vaccines,3152.51,143,20.69,March,2023,Sarah Connor,Robert Wilson
+MediStore,France,Lyon,Distributor,Vitamins,12405.96,148,72.71,March,2022,Raj Malhotra,Laura Adams
+MedLife,Brazil,São Paulo,Wholesale,Vaccines,5133.54,149,35.61,November,2020,Linda Grey,Sophia Patel
+CurePoint,Australia,Brisbane,Wholesale,Antivirals,40354.88,128,315.97,July,2023,Linda Grey,Emily Clark
+CurePoint,Canada,Ottawa,Wholesale,Antivirals,3025.44,21,135.7,October,2018,Linda Grey,Laura Adams
+RemedyMart,USA,San Francisco,Online,Analgesics,46673.44,165,287.01,August,2021,James Goodwill,Emily Clark
+MediStore,Australia,Brisbane,Retail,Antibiotics,50077.64,89,474.05,August,2018,Peter White,Sophia Patel
+Apollo Pharmacy,USA,Houston,Wholesale,Analgesics,10719.22,189,65.91,October,2019,Raj Malhotra,Priya Mehta
+MediStore,UK,Leeds,Online,Vaccines,35180.01,196,214.82,September,2018,James Goodwill,Priya Mehta
+HealthKart,USA,New York,Distributor,Antibiotics,24739.32,86,285.0,June,2017,Peter White,Laura Adams
+HealthKart,Germany,Frankfurt,Retail,Analgesics,7122.73,61,121.43,October,2024,Raj Malhotra,David Garcia
+CurePoint,UK,Manchester,Online,Antivirals,2010.17,43,43.16,September,2021,Sarah Connor,David Garcia
+HealthZone,Germany,Munich,Distributor,Vitamins,4697.56,17,310.32,August,2018,Linda Grey,David Garcia
+RemedyMart,France,Toulouse,Online,Analgesics,21012.34,98,247.5,December,2024,Sarah Connor,David Garcia
+Apollo Pharmacy,Germany,Frankfurt,Online,Vaccines,594.71,2,335.45,July,2020,Peter White,William Lee
+BioHealth,UK,London,Wholesale,Antivirals,16884.75,74,236.52,April,2018,Peter White,John Doe
+LifeCare,France,Paris,Wholesale,Vitamins,43194.75,125,377.15,November,2020,James Goodwill,Priya Mehta
+CurePoint,Australia,Adelaide,Wholesale,Antivirals,10267.14,168,64.85,August,2022,Sarah Connor,Amit Sharma
+PharmaPlus,France,Paris,Retail,Antibiotics,3912.54,99,35.46,April,2017,Raj Malhotra,David Garcia
+Apollo Pharmacy,Brazil,Brasília,Distributor,Antivirals,38930.17,192,176.49,November,2017,Peter White,Michael Brown
+LifeCare,UK,Manchester,Distributor,Vaccines,29176.07,154,171.81,July,2017,Peter White,Amit Sharma
+RemedyMart,Germany,Berlin,Online,Vitamins,18171.51,143,110.39,July,2023,Raj Malhotra,Robert Wilson
+RemedyMart,France,Toulouse,Wholesale,Vaccines,45351.99,116,436.58,August,2017,Linda Grey,Sophia Patel
+HealthZone,USA,New York,Online,Antibiotics,91768.6,168,492.64,June,2021,Sarah Connor,Michael Brown
+CurePoint,France,Paris,Retail,Antivirals,44914.89,191,280.73,January,2019,James Goodwill,John Doe
+CurePoint,India,Chennai,Retail,Vitamins,60596.9,131,455.52,April,2022,Sarah Connor,Robert Wilson
+BioHealth,Canada,Ottawa,Online,Vitamins,1131.21,6,192.25,August,2023,Linda Grey,David Garcia
+PharmaPlus,Canada,Toronto,Online,Analgesics,26821.77,123,196.41,September,2021,Raj Malhotra,Priya Mehta
+MediStore,Canada,Vancouver,Retail,Analgesics,4721.88,51,105.85,August,2024,Sarah Connor,John Doe
+LifeCare,Australia,Melbourne,Distributor,Antivirals,1346.83,8,150.7,November,2022,Peter White,Michael Brown
+MedLife,Brazil,Fortaleza,Wholesale,Analgesics,22064.84,164,145.46,June,2019,Peter White,William Lee
+LifeCare,UK,Liverpool,Distributor,Analgesics,32593.17,137,204.03,January,2022,Sarah Connor,David Garcia
+RemedyMart,USA,Los Angeles,Online,Antivirals,26971.17,104,264.89,May,2021,Sarah Connor,Laura Adams
+CurePoint,Canada,Vancouver,Retail,Antibiotics,73156.48,198,398.7,April,2020,Peter White,Michael Brown
+HealthZone,Germany,Berlin,Online,Vitamins,28528.62,131,187.92,November,2022,Raj Malhotra,John Doe
+Apollo Pharmacy,France,Lyon,Online,Antibiotics,45071.83,107,491.93,March,2022,Raj Malhotra,David Garcia
+MediStore,Australia,Brisbane,Wholesale,Vitamins,3215.04,129,26.36,May,2020,Sarah Connor,John Doe
+PharmaPlus,UK,London,Retail,Vitamins,45535.08,160,330.6,August,2017,Sarah Connor,Michael Brown
+LifeCare,India,Bangalore,Retail,Antivirals,1905.58,4,401.31,October,2024,Sarah Connor,Michael Brown
+HealthZone,USA,San Francisco,Wholesale,Antibiotics,9425.96,19,442.38,November,2024,James Goodwill,Sophia Patel
+PharmaPlus,Canada,Toronto,Online,Vaccines,9163.01,46,166.64,March,2023,James Goodwill,Michael Brown
+BioHealth,France,Paris,Wholesale,Vaccines,57254.51,109,492.21,March,2021,James Goodwill,Sophia Patel
+PharmaPlus,France,Paris,Retail,Vaccines,2622.61,13,168.28,March,2022,Raj Malhotra,John Doe
+HealthKart,UK,Leeds,Retail,Analgesics,4250.55,59,89.49,April,2018,Raj Malhotra,John Doe
+HealthKart,France,Paris,Retail,Antivirals,1127.92,25,55.58,December,2020,James Goodwill,Emily Clark
+HealthZone,Canada,Ottawa,Online,Antivirals,54931.3,148,446.23,May,2021,Peter White,John Doe
+MedLife,Germany,Frankfurt,Distributor,Antivirals,60542.56,133,486.99,March,2023,Linda Grey,Emily Clark
+BioHealth,Brazil,Rio de Janeiro,Online,Vaccines,3762.47,9,411.34,August,2019,Linda Grey,John Doe
+HealthKart,USA,Los Angeles,Retail,Antivirals,9728.3,60,164.03,March,2021,Raj Malhotra,William Lee
+MedLife,Australia,Sydney,Wholesale,Antivirals,53344.66,175,329.32,May,2020,Peter White,Laura Adams
+HealthZone,Germany,Frankfurt,Distributor,Antivirals,58373.32,131,441.11,December,2023,Peter White,John Doe
+PharmaPlus,USA,Houston,Online,Analgesics,1145.56,21,65.34,May,2022,Raj Malhotra,Laura Adams
+RemedyMart,India,Rendsburg,Online,Vitamins,17593.25,161,127.54,July,2023,Linda Grey,Michael Brown
+MedLife,Australia,Perth,Distributor,Vaccines,13384.25,41,372.44,July,2022,Peter White,Emily Clark
+PharmaPlus,Australia,Perth,Retail,Antivirals,25873.28,75,329.06,November,2020,James Goodwill,William Lee
+RemedyMart,France,Toulouse,Wholesale,Antibiotics,62575.36,150,371.65,November,2021,Linda Grey,Robert Wilson
+PharmaPlus,UK,London,Online,Analgesics,48507.66,94,489.76,February,2021,Sarah Connor,John Doe
+LifeCare,USA,New York,Distributor,Vaccines,39681.39,125,341.33,February,2019,Peter White,Amit Sharma
+RemedyMart,USA,New York,Retail,Vitamins,2139.07,168,11.87,February,2017,Sarah Connor,Robert Wilson
+MedLife,Canada,Ottawa,Distributor,Antivirals,75727.12,198,429.31,February,2018,Raj Malhotra,William Lee
+CurePoint,UK,Manchester,Wholesale,Vitamins,3890.64,87,47.77,June,2023,Raj Malhotra,Priya Mehta
+MedLife,France,Paris,Online,Analgesics,44799.75,186,261.2,June,2022,James Goodwill,Robert Wilson
+CurePoint,Germany,Berlin,Online,Analgesics,9197.85,191,43.57,March,2023,James Goodwill,Michael Brown
+BioHealth,Brazil,Brasília,Retail,Vitamins,70212.62,181,330.05,December,2021,Linda Grey,Amit Sharma
+LifeCare,Brazil,São Paulo,Retail,Antibiotics,62325.87,145,385.37,April,2017,James Goodwill,Amit Sharma
+LifeCare,France,Nice,Distributor,Vaccines,36775.58,77,450.44,October,2022,James Goodwill,William Lee
+MedLife,France,Marseille,Distributor,Vaccines,46477.57,134,338.66,August,2023,Raj Malhotra,John Doe
+MedLife,UK,London,Online,Antivirals,17407.66,91,200.98,October,2021,Raj Malhotra,Robert Wilson
+Apollo Pharmacy,India,Chennai,Wholesale,Antivirals,62725.86,142,433.64,December,2020,Linda Grey,William Lee
+RemedyMart,Germany,Berlin,Distributor,Vaccines,8327.2,35,212.25,August,2019,James Goodwill,Priya Mehta
+RemedyMart,Germany,Frankfurt,Distributor,Vitamins,1531.2,84,18.82,June,2019,Sarah Connor,Amit Sharma
+MedLife,Australia,Melbourne,Online,Antibiotics,5871.59,14,459.86,September,2018,James Goodwill,Sophia Patel
+HealthZone,India,Bangalore,Online,Analgesics,74666.06,176,356.77,May,2017,James Goodwill,John Doe
+CurePoint,USA,Houston,Retail,Antibiotics,55769.0,131,379.44,October,2022,Linda Grey,Amit Sharma
+BioHealth,Brazil,Rio de Janeiro,Wholesale,Antivirals,90904.96,173,481.78,February,2019,Peter White,Michael Brown
+LifeCare,India,Mumbai,Retail,Vaccines,47121.26,124,416.4,May,2018,Linda Grey,Michael Brown
+HealthZone,Germany,Rendsburg,Retail,Vitamins,35782.16,175,230.42,June,2022,Peter White,Amit Sharma
+Apollo Pharmacy,Australia,Brisbane,Distributor,Vitamins,41732.89,181,274.94,November,2017,James Goodwill,Michael Brown
+MedLife,USA,New York,Online,Antivirals,1004.28,30,32.6,February,2021,Peter White,Michael Brown
+MediStore,Canada,Montreal,Wholesale,Antibiotics,8518.7,52,157.62,May,2020,Peter White,Emily Clark
+MedLife,India,Mumbai,Online,Vaccines,71500.85,187,367.82,May,2021,Raj Malhotra,William Lee
+BioHealth,India,Delhi,Distributor,Antibiotics,34423.33,68,439.85,November,2019,Linda Grey,William Lee
+PharmaPlus,Germany,Rendsburg,Retail,Antibiotics,43482.88,125,300.68,January,2022,Sarah Connor,Sophia Patel
+LifeCare,Germany,Frankfurt,Retail,Analgesics,40741.45,127,316.83,October,2024,Sarah Connor,William Lee
+PharmaPlus,France,Nice,Distributor,Analgesics,20150.63,62,399.34,March,2023,Linda Grey,Priya Mehta
+RemedyMart,Australia,Adelaide,Distributor,Vitamins,5514.0,35,141.21,February,2017,Peter White,Amit Sharma
+BioHealth,Canada,Vancouver,Retail,Vaccines,6949.12,149,41.18,May,2024,Raj Malhotra,Amit Sharma
+MediStore,Brazil,Rio de Janeiro,Wholesale,Analgesics,53233.06,195,249.3,September,2022,Sarah Connor,Laura Adams
+RemedyMart,Brazil,Fortaleza,Online,Vitamins,5638.42,189,26.0,August,2023,Linda Grey,Robert Wilson
+Apollo Pharmacy,France,Paris,Retail,Vaccines,1563.64,65,22.32,July,2022,James Goodwill,David Garcia
+CurePoint,France,Paris,Distributor,Antibiotics,27043.88,168,165.3,April,2019,Sarah Connor,Laura Adams
+BioHealth,Australia,Perth,Wholesale,Vaccines,3405.73,47,77.39,October,2017,Peter White,Emily Clark
+HealthZone,Germany,Berlin,Distributor,Vaccines,12323.73,52,227.26,November,2022,Peter White,John Doe
+CurePoint,Brazil,São Paulo,Retail,Vaccines,12980.95,51,228.17,March,2024,Peter White,Michael Brown
+RemedyMart,Germany,Munich,Online,Analgesics,22726.7,179,126.34,March,2022,James Goodwill,Michael Brown
+Apollo Pharmacy,Brazil,Brasília,Wholesale,Antivirals,3893.65,28,124.75,January,2018,Peter White,David Garcia
+MedLife,Australia,Adelaide,Retail,Analgesics,26062.08,67,329.59,December,2019,Peter White,William Lee
+Apollo Pharmacy,USA,New York,Online,Antivirals,46737.25,162,241.72,November,2017,Raj Malhotra,Michael Brown
+HealthZone,Canada,Ottawa,Wholesale,Antivirals,19128.06,72,320.71,November,2017,Linda Grey,William Lee
+MediStore,India,Bangalore,Wholesale,Antivirals,1426.85,153,11.43,November,2020,Raj Malhotra,John Doe
+Apollo Pharmacy,Canada,Toronto,Retail,Vaccines,166.25,6,32.37,July,2020,Linda Grey,William Lee
+HealthZone,USA,Houston,Online,Antivirals,29184.92,124,240.12,February,2019,Sarah Connor,Priya Mehta
+BioHealth,USA,Houston,Retail,Antibiotics,23573.62,109,246.2,July,2021,Sarah Connor,Michael Brown
+PharmaPlus,France,Paris,Distributor,Antivirals,7941.58,35,229.26,December,2022,Raj Malhotra,Priya Mehta
+MedLife,France,Lyon,Retail,Analgesics,37360.36,177,263.12,November,2020,Peter White,David Garcia
+Apollo Pharmacy,France,Paris,Wholesale,Vaccines,1785.56,46,34.25,June,2020,Peter White,David Garcia
+MediStore,France,Toulouse,Retail,Antibiotics,8713.32,148,62.93,May,2023,James Goodwill,Michael Brown
+HealthZone,India,Delhi,Online,Antibiotics,16962.55,85,224.88,March,2019,Sarah Connor,Emily Clark
+MediStore,France,Lyon,Wholesale,Antivirals,19119.56,106,153.81,April,2023,Linda Grey,Amit Sharma
+HealthZone,India,Bangalore,Retail,Antibiotics,3373.41,9,410.17,July,2018,Linda Grey,Priya Mehta
+RemedyMart,Australia,Sydney,Wholesale,Analgesics,1049.03,17,65.78,October,2017,Raj Malhotra,Amit Sharma
+HealthKart,India,Chennai,Retail,Vitamins,39541.09,167,291.64,October,2023,Sarah Connor,David Garcia
+HealthKart,Australia,Melbourne,Online,Vitamins,81391.59,192,354.11,January,2018,James Goodwill,John Doe
+RemedyMart,Germany,Rendsburg,Wholesale,Antibiotics,31038.06,77,465.42,December,2022,Raj Malhotra,Laura Adams
+BioHealth,India,Chennai,Retail,Analgesics,35109.87,168,216.7,August,2020,Linda Grey,Robert Wilson
+CurePoint,France,Toulouse,Retail,Vitamins,70953.09,189,359.88,June,2018,James Goodwill,Sophia Patel
+MedLife,USA,New York,Retail,Vitamins,78721.94,161,413.66,March,2019,Peter White,David Garcia
+MedLife,France,Nice,Retail,Analgesics,2237.45,197,10.77,August,2022,James Goodwill,Robert Wilson
+LifeCare,Germany,Hamburg,Online,Antibiotics,35607.61,87,361.61,November,2021,Peter White,John Doe
+MedLife,Canada,Ottawa,Online,Antivirals,58177.8,177,305.86,October,2023,Sarah Connor,Michael Brown
+HealthKart,Germany,Munich,Distributor,Vitamins,73013.16,194,335.99,November,2022,Peter White,John Doe
+LifeCare,Australia,Adelaide,Wholesale,Antibiotics,26553.33,164,190.84,August,2017,Raj Malhotra,Robert Wilson
+MediStore,Canada,Ottawa,Wholesale,Vitamins,50547.73,156,279.3,August,2019,Peter White,Laura Adams
+RemedyMart,Canada,Montreal,Retail,Antivirals,3528.43,76,49.29,May,2023,Sarah Connor,Robert Wilson
+Apollo Pharmacy,Brazil,Fortaleza,Online,Vaccines,37510.08,167,212.21,July,2019,Sarah Connor,Laura Adams
+HealthKart,UK,London,Distributor,Vitamins,89766.28,194,445.14,October,2021,Linda Grey,Michael Brown
+HealthZone,Germany,Rendsburg,Retail,Antibiotics,53231.56,142,321.69,February,2023,Peter White,Sophia Patel
+PharmaPlus,France,Toulouse,Online,Vitamins,9000.16,121,85.62,January,2017,Peter White,William Lee
+Apollo Pharmacy,Canada,Vancouver,Online,Antibiotics,15877.42,198,69.07,January,2020,James Goodwill,Michael Brown
+LifeCare,Germany,Frankfurt,Distributor,Vitamins,82669.57,166,416.22,January,2023,Sarah Connor,Laura Adams
+CurePoint,USA,New York,Online,Antivirals,30.5,2,15.74,July,2019,James Goodwill,Michael Brown
+RemedyMart,USA,New York,Online,Vitamins,31249.39,163,229.94,November,2023,Peter White,Priya Mehta
+MedLife,UK,Leeds,Online,Vitamins,7263.75,101,70.27,March,2021,James Goodwill,Michael Brown
+RemedyMart,India,Delhi,Retail,Antivirals,59620.23,153,367.3,March,2019,James Goodwill,William Lee
+MedLife,France,Lyon,Wholesale,Analgesics,6382.38,28,199.82,November,2017,Raj Malhotra,Priya Mehta
+CurePoint,India,Chennai,Online,Antibiotics,50712.79,164,339.75,May,2021,Linda Grey,William Lee
+Apollo Pharmacy,Canada,Montreal,Wholesale,Analgesics,81062.73,181,432.25,October,2021,James Goodwill,Amit Sharma
+MedLife,UK,London,Wholesale,Vaccines,48918.99,108,401.21,April,2020,Peter White,Emily Clark
+LifeCare,India,Mumbai,Retail,Vitamins,50594.4,156,293.84,January,2017,Linda Grey,John Doe
+Apollo Pharmacy,France,Marseille,Wholesale,Vaccines,3949.24,23,166.24,November,2017,James Goodwill,Sophia Patel
+MedLife,Australia,Brisbane,Wholesale,Vaccines,1278.88,57,23.44,August,2017,Raj Malhotra,Priya Mehta
+HealthZone,Canada,Montreal,Retail,Vaccines,25496.63,152,193.53,May,2017,Peter White,Laura Adams
+MedLife,Brazil,São Paulo,Online,Antibiotics,44050.78,165,326.41,October,2024,Peter White,Michael Brown
+RemedyMart,India,Delhi,Retail,Vaccines,10053.74,65,179.48,February,2018,Linda Grey,Emily Clark
+Apollo Pharmacy,India,Rendsburg,Online,Vitamins,39358.26,157,263.45,December,2018,Sarah Connor,William Lee
+CurePoint,UK,Liverpool,Wholesale,Vitamins,23894.88,163,176.9,January,2017,James Goodwill,David Garcia
+PharmaPlus,USA,San Francisco,Distributor,Antivirals,31986.03,126,302.03,May,2024,Linda Grey,Michael Brown
+BioHealth,France,Paris,Wholesale,Vaccines,18573.52,64,306.83,August,2020,Linda Grey,William Lee
+PharmaPlus,Brazil,Rio de Janeiro,Online,Vaccines,34955.06,116,294.31,March,2018,Raj Malhotra,Laura Adams
+HealthKart,Canada,Calgary,Retail,Vaccines,9217.01,31,347.25,September,2024,Sarah Connor,Emily Clark
+CurePoint,India,Delhi,Distributor,Analgesics,10022.39,69,121.96,February,2021,Raj Malhotra,Priya Mehta
+CurePoint,Canada,Vancouver,Online,Analgesics,30821.87,67,482.37,September,2019,Raj Malhotra,Amit Sharma
+RemedyMart,France,Marseille,Wholesale,Antibiotics,20377.3,155,112.34,April,2021,Peter White,Priya Mehta
+PharmaPlus,Australia,Sydney,Online,Vaccines,1205.5,51,21.44,November,2019,James Goodwill,Robert Wilson
+MedLife,UK,Birmingham,Online,Vaccines,30343.94,143,249.05,August,2019,Peter White,Laura Adams
+MedLife,Canada,Montreal,Distributor,Vaccines,9651.69,122,66.91,June,2024,Raj Malhotra,Priya Mehta
+Apollo Pharmacy,India,Rendsburg,Online,Vaccines,23921.42,101,242.26,August,2021,Sarah Connor,Michael Brown
+MediStore,UK,Manchester,Online,Vitamins,8918.16,18,415.09,February,2023,James Goodwill,Sophia Patel
+CurePoint,Canada,Calgary,Distributor,Antibiotics,20369.04,77,307.37,January,2020,Linda Grey,Sophia Patel
+BioHealth,France,Toulouse,Online,Vaccines,26999.17,145,198.9,May,2022,Sarah Connor,William Lee
+PharmaPlus,Germany,Frankfurt,Online,Analgesics,33042.01,68,490.25,January,2020,Linda Grey,Robert Wilson
+BioHealth,Brazil,Brasília,Wholesale,Vaccines,42905.64,141,275.44,May,2021,Raj Malhotra,Michael Brown
+HealthKart,Brazil,Brasília,Online,Vaccines,48791.39,123,420.89,July,2021,Raj Malhotra,William Lee
+PharmaPlus,Germany,Berlin,Retail,Vaccines,11792.03,98,137.07,November,2019,James Goodwill,Priya Mehta
+BioHealth,Brazil,Fortaleza,Distributor,Antivirals,13724.1,85,177.8,October,2024,Raj Malhotra,Laura Adams
+LifeCare,UK,Liverpool,Wholesale,Analgesics,18678.79,44,417.04,October,2023,Sarah Connor,John Doe
+Apollo Pharmacy,Australia,Perth,Online,Antivirals,32499.93,129,294.43,September,2020,Sarah Connor,William Lee
+CurePoint,Brazil,São Paulo,Online,Vaccines,44477.45,141,316.85,November,2018,Sarah Connor,Priya Mehta
+CurePoint,UK,London,Retail,Vitamins,77020.19,179,393.37,November,2019,Raj Malhotra,John Doe
+MedLife,Canada,Calgary,Distributor,Vitamins,26586.42,82,315.47,November,2019,Raj Malhotra,William Lee
+CurePoint,USA,Los Angeles,Distributor,Analgesics,1977.58,19,108.64,June,2019,Linda Grey,Amit Sharma
+MediStore,USA,Los Angeles,Online,Antibiotics,12987.31,28,427.75,November,2021,Peter White,William Lee
+Apollo Pharmacy,Brazil,São Paulo,Distributor,Antivirals,17012.1,118,121.6,August,2024,Raj Malhotra,Amit Sharma
+HealthKart,Brazil,Rio de Janeiro,Distributor,Analgesics,33435.8,117,303.57,October,2020,Sarah Connor,David Garcia
+PharmaPlus,India,Chennai,Retail,Analgesics,17475.75,47,436.28,December,2022,James Goodwill,Laura Adams
+MedLife,India,Bangalore,Distributor,Antibiotics,31939.95,139,279.17,June,2024,Raj Malhotra,Priya Mehta
+MediStore,India,Chennai,Retail,Antibiotics,30731.84,184,145.13,March,2018,Linda Grey,Laura Adams
+LifeCare,India,Chennai,Distributor,Antivirals,6867.09,12,485.11,February,2022,Raj Malhotra,David Garcia
+BioHealth,UK,Liverpool,Retail,Vitamins,75063.2,154,490.68,November,2023,Peter White,Emily Clark
+HealthKart,India,Delhi,Retail,Analgesics,22196.33,96,251.05,October,2024,Linda Grey,Laura Adams
+MedLife,UK,Manchester,Wholesale,Vaccines,27812.6,102,266.0,August,2020,Peter White,Priya Mehta
+MedLife,France,Lyon,Retail,Antibiotics,30245.2,151,199.4,February,2023,Linda Grey,John Doe
+CurePoint,Australia,Sydney,Online,Vaccines,78829.19,179,448.28,July,2023,Raj Malhotra,William Lee
+BioHealth,Brazil,Rio de Janeiro,Online,Vaccines,42268.7,92,415.48,January,2017,Linda Grey,Emily Clark
+PharmaPlus,India,Rendsburg,Retail,Antibiotics,1605.67,4,405.23,March,2024,Sarah Connor,Laura Adams
+RemedyMart,Canada,Montreal,Wholesale,Antivirals,2289.4,73,39.14,March,2024,Raj Malhotra,Emily Clark
+PharmaPlus,Australia,Brisbane,Distributor,Analgesics,39838.79,81,425.01,May,2022,Peter White,William Lee
+CurePoint,UK,Liverpool,Retail,Vaccines,21600.31,147,162.83,November,2018,Linda Grey,David Garcia
+MedLife,France,Toulouse,Retail,Vitamins,18856.4,69,260.11,September,2021,Sarah Connor,Amit Sharma
+BioHealth,India,Chennai,Wholesale,Analgesics,12663.49,31,369.67,October,2018,James Goodwill,Amit Sharma
+MediStore,USA,San Francisco,Distributor,Analgesics,8313.58,22,346.98,May,2021,Linda Grey,John Doe
+HealthKart,Canada,Ottawa,Retail,Analgesics,15258.6,54,268.34,May,2018,James Goodwill,Sophia Patel
+HealthZone,Germany,Frankfurt,Wholesale,Vaccines,4376.23,21,185.77,January,2018,Peter White,Sophia Patel
+RemedyMart,Australia,Brisbane,Online,Analgesics,56759.9,152,369.2,July,2024,Peter White,John Doe
+PharmaPlus,USA,Los Angeles,Retail,Antivirals,20494.57,47,495.37,July,2019,Peter White,Sophia Patel
+PharmaPlus,India,Bangalore,Online,Analgesics,9926.25,26,415.95,November,2017,James Goodwill,William Lee
+LifeCare,India,Mumbai,Wholesale,Antivirals,4001.08,135,31.64,December,2021,Linda Grey,Priya Mehta
+PharmaPlus,Australia,Sydney,Online,Vitamins,11824.0,37,372.83,December,2022,James Goodwill,David Garcia
+RemedyMart,Australia,Melbourne,Retail,Antivirals,55936.46,136,386.77,October,2022,Linda Grey,Sophia Patel
+MedLife,USA,Houston,Online,Vaccines,60813.4,127,443.37,October,2018,Raj Malhotra,Laura Adams
+LifeCare,Australia,Sydney,Wholesale,Vitamins,10152.73,191,53.42,April,2021,James Goodwill,Amit Sharma
+PharmaPlus,France,Nice,Retail,Vaccines,27562.73,174,147.36,October,2024,Linda Grey,David Garcia
+HealthKart,France,Marseille,Distributor,Analgesics,16641.76,102,160.01,March,2019,Raj Malhotra,Amit Sharma
+HealthKart,Australia,Brisbane,Online,Antibiotics,67982.74,142,406.04,July,2017,Peter White,Laura Adams
+HealthKart,UK,Manchester,Wholesale,Vitamins,370.87,34,12.98,June,2020,Raj Malhotra,Michael Brown
+RemedyMart,Brazil,Salvador,Online,Vaccines,13285.75,102,156.79,September,2023,Sarah Connor,Emily Clark
+HealthKart,USA,New York,Distributor,Antivirals,45106.32,119,422.62,February,2018,Raj Malhotra,John Doe
+CurePoint,Canada,Toronto,Retail,Antibiotics,2927.12,102,34.61,November,2021,Raj Malhotra,Amit Sharma
+CurePoint,USA,Chicago,Distributor,Analgesics,3871.99,13,336.76,February,2020,Sarah Connor,Amit Sharma
+HealthKart,India,Bangalore,Online,Analgesics,5631.03,34,147.69,July,2024,James Goodwill,Robert Wilson
+LifeCare,France,Toulouse,Distributor,Vaccines,29084.36,120,208.5,February,2022,Sarah Connor,Robert Wilson
+BioHealth,UK,Leeds,Retail,Analgesics,22841.49,53,422.69,March,2017,James Goodwill,Sophia Patel
+CurePoint,UK,Leeds,Wholesale,Antivirals,80575.61,158,489.7,February,2021,James Goodwill,Laura Adams
+HealthKart,UK,Liverpool,Wholesale,Analgesics,12513.95,53,213.9,June,2024,Peter White,Priya Mehta
+HealthKart,UK,Liverpool,Retail,Vaccines,13825.67,31,445.44,December,2024,Linda Grey,Sophia Patel
+Apollo Pharmacy,Australia,Melbourne,Retail,Antibiotics,49839.69,190,232.43,January,2024,Raj Malhotra,William Lee
+RemedyMart,Australia,Sydney,Wholesale,Analgesics,2617.35,54,45.17,June,2019,Raj Malhotra,Laura Adams
+HealthKart,Canada,Toronto,Distributor,Vitamins,2965.21,14,236.95,September,2022,Raj Malhotra,Michael Brown
+HealthZone,Germany,Berlin,Distributor,Antibiotics,21858.41,53,403.94,July,2019,James Goodwill,Robert Wilson
+MedLife,Brazil,Brasília,Wholesale,Vaccines,15327.13,191,68.78,May,2019,Linda Grey,Amit Sharma
+BioHealth,India,Bangalore,Online,Analgesics,1142.41,8,142.99,May,2022,Peter White,Priya Mehta
+HealthZone,Brazil,Rio de Janeiro,Distributor,Antivirals,2702.89,34,75.58,October,2017,Linda Grey,John Doe
+RemedyMart,India,Bangalore,Online,Analgesics,10310.82,75,143.06,September,2023,Linda Grey,David Garcia
+MediStore,USA,Houston,Online,Analgesics,1871.24,185,10.07,April,2022,Raj Malhotra,William Lee
+LifeCare,France,Marseille,Online,Vitamins,57572.25,154,360.37,June,2024,Peter White,Amit Sharma
+PharmaPlus,France,Paris,Wholesale,Analgesics,25394.57,87,295.8,May,2020,James Goodwill,Laura Adams
+BioHealth,Germany,Hamburg,Retail,Vitamins,19236.72,134,130.94,April,2024,Raj Malhotra,William Lee
+RemedyMart,France,Paris,Online,Antivirals,82746.32,157,466.13,July,2024,Raj Malhotra,Amit Sharma
+MedLife,France,Nice,Online,Antivirals,17336.48,107,142.49,October,2023,Sarah Connor,Priya Mehta
+Apollo Pharmacy,Canada,Toronto,Wholesale,Antibiotics,58042.45,172,290.19,April,2024,Raj Malhotra,Michael Brown
+LifeCare,USA,Los Angeles,Retail,Vaccines,13212.39,51,222.57,July,2017,James Goodwill,Emily Clark
+BioHealth,Germany,Hamburg,Wholesale,Analgesics,56183.93,112,468.8,December,2021,Raj Malhotra,Robert Wilson
+MediStore,France,Nice,Wholesale,Analgesics,50138.43,145,346.64,July,2019,Raj Malhotra,David Garcia
+Apollo Pharmacy,Brazil,Fortaleza,Retail,Vitamins,85316.74,161,465.78,December,2024,Sarah Connor,David Garcia
+MediStore,USA,Houston,Online,Vaccines,1925.66,183,12.14,December,2017,Raj Malhotra,Sophia Patel
+HealthZone,Canada,Vancouver,Wholesale,Antibiotics,57111.84,149,439.0,May,2020,Linda Grey,Sophia Patel
+MedLife,Brazil,Fortaleza,Distributor,Antibiotics,10846.85,24,382.91,January,2023,Linda Grey,David Garcia
+Apollo Pharmacy,Germany,Hamburg,Retail,Vaccines,75054.06,175,472.55,July,2020,Linda Grey,Robert Wilson
+PharmaPlus,Brazil,Brasília,Distributor,Vaccines,34923.46,84,393.09,December,2022,James Goodwill,Michael Brown
+CurePoint,USA,San Francisco,Distributor,Antibiotics,2575.65,42,61.36,August,2018,Peter White,Priya Mehta
+PharmaPlus,Brazil,Salvador,Distributor,Vaccines,25578.3,103,255.2,May,2024,James Goodwill,Robert Wilson
+PharmaPlus,Australia,Melbourne,Distributor,Antivirals,3188.56,47,64.38,April,2018,Sarah Connor,Amit Sharma
+MedLife,Germany,Frankfurt,Wholesale,Vitamins,4143.88,105,35.65,May,2020,Peter White,Amit Sharma
+PharmaPlus,Brazil,São Paulo,Retail,Vitamins,32785.25,141,213.74,September,2022,James Goodwill,Priya Mehta
+MediStore,Brazil,Salvador,Distributor,Vaccines,44993.25,137,332.1,July,2023,Sarah Connor,Amit Sharma
+PharmaPlus,Germany,Munich,Wholesale,Analgesics,67375.89,184,327.38,December,2019,Peter White,Robert Wilson
+LifeCare,India,Mumbai,Retail,Vaccines,24585.98,87,307.8,January,2023,Sarah Connor,William Lee
+RemedyMart,Australia,Adelaide,Distributor,Analgesics,2885.82,8,329.3,March,2023,Raj Malhotra,Sophia Patel
+HealthKart,Canada,Calgary,Wholesale,Analgesics,11206.15,28,487.55,November,2017,Raj Malhotra,John Doe
+BioHealth,USA,New York,Retail,Vitamins,8854.18,28,359.47,September,2018,Peter White,Robert Wilson
+MedLife,Germany,Berlin,Distributor,Antibiotics,4234.74,100,51.82,March,2019,James Goodwill,Michael Brown
+BioHealth,Australia,Perth,Distributor,Analgesics,422.4,13,38.47,November,2021,Peter White,Laura Adams
+Apollo Pharmacy,USA,Chicago,Wholesale,Analgesics,32045.21,138,276.46,November,2021,James Goodwill,Sophia Patel
+RemedyMart,Germany,Frankfurt,Wholesale,Vitamins,1211.24,74,17.2,November,2021,Peter White,Laura Adams
+Apollo Pharmacy,Germany,Berlin,Retail,Vaccines,10943.74,24,420.75,October,2022,Sarah Connor,William Lee
+HealthZone,Canada,Ottawa,Online,Antivirals,30114.36,142,212.68,July,2019,James Goodwill,John Doe
+RemedyMart,Canada,Calgary,Online,Antivirals,22169.82,111,171.82,December,2023,James Goodwill,Emily Clark
+LifeCare,Australia,Sydney,Wholesale,Antivirals,1699.0,116,14.86,June,2024,Peter White,David Garcia
+HealthZone,Australia,Melbourne,Online,Analgesics,34538.43,122,264.33,March,2017,Linda Grey,Emily Clark
+HealthKart,France,Paris,Wholesale,Antibiotics,17743.01,84,232.91,October,2020,Peter White,Michael Brown
+MediStore,USA,Chicago,Wholesale,Vaccines,8847.68,104,74.44,December,2021,Linda Grey,Laura Adams
+MediStore,USA,Chicago,Distributor,Antivirals,8181.62,181,47.43,September,2017,Peter White,Amit Sharma
+BioHealth,India,Bangalore,Retail,Antivirals,15632.16,162,99.05,July,2019,Peter White,Michael Brown
+Apollo Pharmacy,Brazil,Fortaleza,Retail,Vaccines,59919.93,153,388.84,December,2021,James Goodwill,Priya Mehta
+CurePoint,Canada,Montreal,Retail,Antibiotics,8767.97,57,192.15,January,2021,Peter White,John Doe
+BioHealth,India,Chennai,Wholesale,Vaccines,14678.08,43,334.87,October,2017,Sarah Connor,Amit Sharma
+CurePoint,Australia,Perth,Online,Vaccines,38565.43,111,341.03,January,2020,Peter White,Emily Clark
+RemedyMart,France,Lyon,Retail,Vitamins,3503.45,8,393.77,February,2017,Linda Grey,William Lee
+CurePoint,USA,Los Angeles,Online,Antivirals,8498.59,45,205.02,March,2022,James Goodwill,Sophia Patel
+PharmaPlus,France,Nice,Wholesale,Antivirals,82016.48,195,357.97,October,2017,James Goodwill,William Lee
+BioHealth,USA,Chicago,Retail,Vaccines,31099.51,156,241.97,January,2018,James Goodwill,Robert Wilson
+PharmaPlus,Australia,Sydney,Online,Antibiotics,7802.03,172,38.34,May,2021,Sarah Connor,William Lee
+RemedyMart,France,Nice,Distributor,Analgesics,17639.27,137,127.19,February,2022,Sarah Connor,Laura Adams
+PharmaPlus,Germany,Rendsburg,Wholesale,Antibiotics,59423.34,178,325.85,January,2018,Sarah Connor,David Garcia
+PharmaPlus,USA,Los Angeles,Wholesale,Vaccines,3704.78,22,189.18,April,2024,Raj Malhotra,Emily Clark
+MediStore,USA,New York,Retail,Analgesics,16488.7,199,78.99,May,2023,Linda Grey,David Garcia
+RemedyMart,India,Bangalore,Distributor,Vaccines,20659.09,138,164.42,July,2021,Linda Grey,Emily Clark
+RemedyMart,USA,San Francisco,Wholesale,Vaccines,56469.62,181,268.36,March,2021,Raj Malhotra,William Lee
+Apollo Pharmacy,UK,Birmingham,Retail,Antibiotics,29225.45,95,340.32,December,2019,Raj Malhotra,Michael Brown
+Apollo Pharmacy,India,Mumbai,Online,Vitamins,21724.9,49,474.22,March,2020,James Goodwill,Laura Adams
+PharmaPlus,USA,Los Angeles,Distributor,Antivirals,50557.56,182,240.29,June,2022,Raj Malhotra,Amit Sharma
+MediStore,France,Marseille,Online,Analgesics,6049.83,174,40.48,February,2021,James Goodwill,Laura Adams
+LifeCare,Germany,Munich,Wholesale,Antivirals,1131.54,5,253.68,August,2019,Peter White,William Lee
+PharmaPlus,UK,Manchester,Retail,Vitamins,10623.47,54,213.66,October,2023,Raj Malhotra,Robert Wilson
+CurePoint,India,Rendsburg,Online,Analgesics,3248.52,15,183.59,July,2022,Linda Grey,Amit Sharma
+PharmaPlus,Australia,Brisbane,Online,Vitamins,1982.23,46,47.36,May,2024,James Goodwill,William Lee
+Apollo Pharmacy,USA,Chicago,Distributor,Vitamins,33539.61,86,382.82,March,2021,Linda Grey,William Lee
+BioHealth,Canada,Calgary,Retail,Analgesics,8351.93,46,222.08,November,2019,Linda Grey,David Garcia
+CurePoint,Canada,Toronto,Wholesale,Vaccines,1210.56,6,228.32,November,2020,Raj Malhotra,Robert Wilson
+CurePoint,India,Bangalore,Online,Vitamins,54527.35,108,423.39,July,2018,Sarah Connor,Priya Mehta
+PharmaPlus,Canada,Calgary,Retail,Analgesics,19768.4,77,268.34,September,2022,Sarah Connor,David Garcia
+LifeCare,Australia,Adelaide,Online,Vaccines,4677.43,70,63.36,June,2024,James Goodwill,William Lee
+LifeCare,Germany,Rendsburg,Retail,Vitamins,11865.19,48,209.27,December,2022,Raj Malhotra,Emily Clark
+HealthKart,UK,Birmingham,Online,Antibiotics,49640.6,190,289.07,January,2017,James Goodwill,John Doe
+MediStore,Germany,Rendsburg,Retail,Analgesics,35674.47,89,460.5,August,2024,Linda Grey,Robert Wilson
+MedLife,Canada,Calgary,Wholesale,Analgesics,38308.02,102,314.95,December,2023,Sarah Connor,Amit Sharma
+PharmaPlus,India,Rendsburg,Online,Vitamins,1820.25,4,416.4,November,2018,James Goodwill,William Lee
+HealthKart,Germany,Munich,Wholesale,Antivirals,69919.88,125,472.41,May,2018,James Goodwill,Sophia Patel
+MedLife,USA,Houston,Online,Antibiotics,43135.8,80,488.88,October,2020,Peter White,David Garcia
+PharmaPlus,India,Rendsburg,Online,Vitamins,67029.3,141,428.57,June,2018,Sarah Connor,Laura Adams
+RemedyMart,Brazil,São Paulo,Retail,Antivirals,32475.57,94,323.9,June,2018,Peter White,Sophia Patel
+HealthZone,UK,London,Online,Vitamins,99322.77,187,480.48,June,2019,Linda Grey,Michael Brown
+MediStore,France,Toulouse,Wholesale,Antibiotics,19046.39,93,254.46,April,2020,Linda Grey,William Lee
+RemedyMart,Brazil,Salvador,Retail,Antivirals,27747.39,74,394.37,April,2022,Linda Grey,Emily Clark
+LifeCare,UK,Birmingham,Retail,Antibiotics,20063.1,156,122.05,April,2023,Sarah Connor,William Lee
+MediStore,Germany,Frankfurt,Distributor,Vitamins,32462.44,170,167.62,March,2023,Sarah Connor,William Lee
+HealthKart,Germany,Munich,Online,Vitamins,9703.15,176,56.75,July,2021,Linda Grey,Emily Clark
+MediStore,USA,Los Angeles,Distributor,Analgesics,29049.88,121,207.35,June,2017,Raj Malhotra,David Garcia
+PharmaPlus,USA,San Francisco,Retail,Vaccines,10781.66,173,68.07,January,2017,Peter White,Emily Clark
+LifeCare,France,Nice,Retail,Vitamins,73913.63,155,477.88,November,2018,James Goodwill,Sophia Patel
+MedLife,Australia,Perth,Distributor,Vitamins,32328.7,89,382.89,May,2017,James Goodwill,Sophia Patel
+RemedyMart,Germany,Hamburg,Wholesale,Antivirals,65582.08,148,379.59,July,2017,James Goodwill,William Lee
+PharmaPlus,India,Delhi,Online,Vaccines,23424.14,113,227.74,May,2020,Linda Grey,Priya Mehta
+HealthKart,Canada,Calgary,Distributor,Analgesics,6059.97,17,395.9,September,2019,Raj Malhotra,William Lee
+HealthKart,UK,Manchester,Distributor,Analgesics,35717.55,181,185.7,September,2024,Sarah Connor,William Lee
+CurePoint,Brazil,Rio de Janeiro,Wholesale,Vitamins,59318.87,114,452.1,September,2022,Raj Malhotra,Sophia Patel
+BioHealth,Germany,Rendsburg,Wholesale,Vitamins,8883.36,148,59.88,November,2020,Raj Malhotra,Emily Clark
+MediStore,Australia,Sydney,Online,Antivirals,971.0,41,29.08,March,2019,Linda Grey,Laura Adams
+RemedyMart,Canada,Toronto,Retail,Antivirals,12838.74,145,82.61,September,2023,Linda Grey,John Doe
+PharmaPlus,USA,San Francisco,Wholesale,Antivirals,83021.54,169,475.72,September,2023,Raj Malhotra,Emily Clark
+LifeCare,India,Bangalore,Online,Vitamins,38605.21,139,286.03,December,2018,James Goodwill,Robert Wilson
+RemedyMart,Canada,Montreal,Retail,Antivirals,26492.29,76,381.8,September,2024,Linda Grey,Michael Brown
+MediStore,India,Chennai,Distributor,Vaccines,48203.54,188,220.75,April,2021,James Goodwill,Emily Clark
+LifeCare,Australia,Perth,Online,Antivirals,66672.15,154,447.35,December,2020,Linda Grey,William Lee
+LifeCare,Australia,Adelaide,Wholesale,Analgesics,63049.62,132,413.35,January,2018,Sarah Connor,Sophia Patel
+Apollo Pharmacy,UK,London,Wholesale,Antivirals,11530.98,116,110.19,April,2021,Raj Malhotra,Robert Wilson
+MediStore,Brazil,Rio de Janeiro,Retail,Antibiotics,22059.84,112,172.47,June,2022,Sarah Connor,David Garcia
+Apollo Pharmacy,France,Nice,Retail,Analgesics,47456.33,156,321.66,June,2021,Sarah Connor,Sophia Patel
+BioHealth,India,Delhi,Retail,Analgesics,57618.62,122,470.98,November,2019,Peter White,David Garcia
+MedLife,Canada,Montreal,Wholesale,Vitamins,12475.11,195,56.58,September,2022,Raj Malhotra,Robert Wilson
+Apollo Pharmacy,Australia,Sydney,Distributor,Antibiotics,35554.76,191,172.77,August,2023,Sarah Connor,Priya Mehta
+PharmaPlus,Germany,Munich,Distributor,Vitamins,4956.62,24,182.78,October,2021,James Goodwill,Amit Sharma
+RemedyMart,India,Chennai,Wholesale,Antibiotics,15165.63,34,439.18,December,2024,Peter White,Michael Brown
+MediStore,France,Paris,Wholesale,Vaccines,20644.47,116,218.36,March,2021,Raj Malhotra,John Doe
+HealthZone,Germany,Frankfurt,Wholesale,Antivirals,55765.7,181,385.12,May,2023,Sarah Connor,Robert Wilson
+RemedyMart,Canada,Montreal,Online,Vitamins,41103.9,188,266.03,March,2017,Raj Malhotra,John Doe
+Apollo Pharmacy,Brazil,Brasília,Retail,Antivirals,13169.69,138,108.27,March,2017,Peter White,Robert Wilson
+LifeCare,Germany,Hamburg,Online,Antibiotics,12052.32,85,158.93,June,2022,Peter White,David Garcia
+LifeCare,UK,Liverpool,Retail,Antivirals,5558.4,179,35.43,June,2017,Peter White,John Doe
+CurePoint,UK,Leeds,Distributor,Analgesics,9706.7,76,119.9,July,2023,Peter White,Emily Clark
+MedLife,Germany,Munich,Wholesale,Antivirals,69721.69,169,425.73,February,2020,James Goodwill,William Lee
+MedLife,Brazil,São Paulo,Online,Antibiotics,25309.26,50,449.06,October,2023,Peter White,Robert Wilson
+BioHealth,France,Nice,Online,Antibiotics,40093.39,112,410.22,June,2020,James Goodwill,John Doe
+CurePoint,Brazil,Rio de Janeiro,Wholesale,Vitamins,26472.61,126,175.11,May,2024,Linda Grey,David Garcia
+MediStore,Brazil,Rio de Janeiro,Distributor,Antibiotics,5086.9,39,118.04,September,2022,Peter White,Emily Clark
+CurePoint,Australia,Melbourne,Online,Analgesics,17209.46,54,299.41,February,2022,Sarah Connor,Amit Sharma
+MediStore,Brazil,Brasília,Online,Antivirals,13848.8,59,213.09,November,2019,Sarah Connor,Robert Wilson
+HealthZone,USA,Chicago,Distributor,Antivirals,3274.12,32,91.99,June,2022,Linda Grey,Robert Wilson
+MediStore,Germany,Rendsburg,Retail,Analgesics,1341.1,9,141.73,July,2017,Peter White,Michael Brown
+HealthKart,USA,Chicago,Distributor,Analgesics,4759.32,17,304.76,July,2017,Linda Grey,Laura Adams
+RemedyMart,India,Mumbai,Online,Antibiotics,11542.44,153,73.67,July,2024,James Goodwill,Michael Brown
+LifeCare,Australia,Sydney,Distributor,Antibiotics,20170.37,65,357.16,November,2024,Raj Malhotra,Laura Adams
+MediStore,Australia,Perth,Online,Antivirals,42794.34,81,467.13,May,2021,Peter White,Robert Wilson
+MedLife,India,Chennai,Wholesale,Analgesics,8580.27,104,98.3,April,2020,James Goodwill,Laura Adams
+BioHealth,Germany,Rendsburg,Retail,Antibiotics,98444.8,198,461.29,March,2024,James Goodwill,Michael Brown
+MedLife,Brazil,Fortaleza,Retail,Vaccines,66834.26,167,426.73,August,2021,Linda Grey,Sophia Patel
+LifeCare,France,Nice,Retail,Analgesics,57677.33,162,405.46,November,2022,Sarah Connor,Laura Adams
+MediStore,USA,San Francisco,Online,Antivirals,17220.0,141,114.56,October,2021,Sarah Connor,Sophia Patel
+PharmaPlus,France,Paris,Distributor,Analgesics,226.43,3,68.25,August,2017,Sarah Connor,John Doe
+LifeCare,USA,Houston,Distributor,Antibiotics,37683.91,112,285.42,June,2024,James Goodwill,Michael Brown
+HealthKart,France,Paris,Wholesale,Antibiotics,10512.45,65,162.87,January,2019,Linda Grey,Sophia Patel
+RemedyMart,Brazil,São Paulo,Retail,Vitamins,43230.46,100,395.24,November,2020,Peter White,Sophia Patel
+HealthKart,USA,Los Angeles,Online,Vaccines,2903.5,146,17.87,June,2018,Linda Grey,William Lee
+MedLife,Australia,Adelaide,Distributor,Vaccines,2748.22,163,15.59,March,2018,Sarah Connor,Robert Wilson
+CurePoint,France,Paris,Online,Antibiotics,4971.06,14,423.21,February,2018,James Goodwill,Laura Adams
+LifeCare,India,Rendsburg,Retail,Antibiotics,16319.72,59,255.53,January,2019,Linda Grey,John Doe
+Apollo Pharmacy,India,Mumbai,Online,Vaccines,47297.35,177,274.96,February,2023,James Goodwill,Michael Brown
+PharmaPlus,UK,London,Online,Antivirals,81667.56,197,362.04,August,2017,James Goodwill,Sophia Patel
+LifeCare,Canada,Vancouver,Online,Antivirals,6791.26,13,481.14,August,2021,Sarah Connor,Sophia Patel
+HealthZone,UK,Liverpool,Distributor,Antibiotics,25609.21,147,204.31,March,2017,Peter White,Amit Sharma
+Apollo Pharmacy,Brazil,Fortaleza,Retail,Antibiotics,7158.81,89,87.06,December,2019,James Goodwill,Amit Sharma
+MedLife,Australia,Sydney,Retail,Vitamins,28087.06,151,165.11,November,2024,Linda Grey,Amit Sharma
+PharmaPlus,Canada,Vancouver,Wholesale,Antibiotics,20543.25,57,400.37,March,2018,Sarah Connor,William Lee
+BioHealth,Brazil,Brasília,Retail,Antibiotics,98254.05,184,468.3,July,2024,Sarah Connor,Priya Mehta
+HealthKart,Australia,Brisbane,Distributor,Antivirals,23707.42,83,317.72,August,2017,Sarah Connor,Michael Brown
+MedLife,Germany,Frankfurt,Wholesale,Vitamins,2598.61,72,35.4,January,2024,James Goodwill,Robert Wilson
+RemedyMart,Germany,Frankfurt,Online,Vitamins,22247.53,126,201.43,January,2021,Raj Malhotra,Robert Wilson
+BioHealth,Brazil,Brasília,Online,Antibiotics,41098.14,140,314.43,December,2021,Linda Grey,Sophia Patel
+HealthZone,USA,Chicago,Distributor,Antivirals,26150.9,57,440.21,October,2024,Raj Malhotra,David Garcia
+HealthKart,Brazil,Fortaleza,Distributor,Vaccines,43232.65,120,394.04,February,2021,Linda Grey,Priya Mehta
+Apollo Pharmacy,Germany,Hamburg,Online,Antivirals,20799.99,112,173.4,November,2019,James Goodwill,John Doe
+HealthKart,Australia,Sydney,Online,Vaccines,4406.75,123,37.73,October,2019,Peter White,Priya Mehta
+MedLife,Canada,Toronto,Retail,Analgesics,107245.25,196,491.2,December,2024,James Goodwill,Sophia Patel
+CurePoint,USA,San Francisco,Online,Vitamins,37977.21,135,319.82,October,2024,Raj Malhotra,John Doe
+MedLife,Germany,Frankfurt,Retail,Antibiotics,60379.56,147,394.78,August,2020,Peter White,Amit Sharma
+Apollo Pharmacy,Germany,Rendsburg,Retail,Antivirals,19694.9,148,146.15,May,2017,Linda Grey,John Doe
+MedLife,India,Rendsburg,Distributor,Antibiotics,42582.2,105,490.38,March,2020,James Goodwill,Emily Clark
+LifeCare,USA,Houston,Retail,Antibiotics,64556.12,157,488.78,April,2022,James Goodwill,John Doe
+MedLife,France,Toulouse,Distributor,Antivirals,3653.63,58,65.52,April,2021,Linda Grey,Michael Brown
+BioHealth,France,Marseille,Wholesale,Antivirals,20960.07,197,103.01,October,2018,Sarah Connor,Amit Sharma
+BioHealth,UK,Leeds,Retail,Vaccines,30521.22,177,179.8,May,2019,James Goodwill,Robert Wilson
+LifeCare,India,Chennai,Distributor,Antivirals,14391.61,131,110.61,March,2017,Sarah Connor,Priya Mehta
+MedLife,France,Paris,Online,Antivirals,320.64,2,150.86,March,2018,Linda Grey,David Garcia
+MediStore,India,Bangalore,Distributor,Vaccines,1839.24,22,80.53,February,2018,Peter White,Sophia Patel
+BioHealth,France,Nice,Online,Antivirals,60205.95,157,463.51,August,2022,James Goodwill,Amit Sharma
+MedLife,Germany,Berlin,Distributor,Antibiotics,2349.03,41,55.11,July,2020,Sarah Connor,John Doe
+MedLife,Brazil,São Paulo,Distributor,Vaccines,4729.8,84,55.13,February,2024,James Goodwill,Michael Brown
+LifeCare,Germany,Munich,Online,Vaccines,1093.73,53,17.4,July,2022,Linda Grey,Emily Clark
+HealthKart,France,Toulouse,Distributor,Vaccines,9975.28,27,341.25,November,2018,Sarah Connor,Sophia Patel
+PharmaPlus,India,Rendsburg,Distributor,Vaccines,14351.47,48,295.94,January,2022,Peter White,Michael Brown
+MedLife,France,Marseille,Distributor,Vaccines,20485.41,59,302.86,June,2018,James Goodwill,Robert Wilson
+BioHealth,UK,Leeds,Online,Analgesics,4289.23,65,67.36,September,2024,Raj Malhotra,Priya Mehta
+HealthZone,India,Chennai,Retail,Analgesics,27436.24,53,472.92,March,2022,Sarah Connor,Robert Wilson
+MediStore,Brazil,Fortaleza,Wholesale,Antibiotics,706.34,48,13.27,August,2024,James Goodwill,William Lee
+CurePoint,UK,Manchester,Retail,Analgesics,37903.21,100,353.56,June,2022,Sarah Connor,Michael Brown
+HealthKart,Brazil,Fortaleza,Online,Antibiotics,8482.44,28,317.47,July,2017,Raj Malhotra,Michael Brown
+RemedyMart,USA,Los Angeles,Distributor,Vitamins,919.47,7,134.02,October,2017,Raj Malhotra,Laura Adams
+MediStore,Brazil,São Paulo,Online,Antivirals,16602.03,129,118.04,January,2022,Linda Grey,Laura Adams
+HealthZone,Australia,Sydney,Wholesale,Antibiotics,5034.36,46,102.38,August,2024,Raj Malhotra,Emily Clark
+CurePoint,Canada,Calgary,Distributor,Analgesics,59063.27,176,335.85,February,2020,Linda Grey,Emily Clark
+Apollo Pharmacy,USA,New York,Retail,Vitamins,5027.68,27,222.46,December,2019,Raj Malhotra,Emily Clark
+PharmaPlus,Germany,Berlin,Retail,Antivirals,37913.33,85,458.13,January,2024,Raj Malhotra,Sophia Patel
+CurePoint,Canada,Ottawa,Distributor,Antibiotics,6188.09,15,410.45,July,2017,Peter White,William Lee
+BioHealth,UK,Liverpool,Retail,Antivirals,2318.29,155,14.44,January,2022,Raj Malhotra,Emily Clark
+BioHealth,France,Toulouse,Wholesale,Vaccines,5048.1,17,277.97,February,2020,Linda Grey,Robert Wilson
+Apollo Pharmacy,UK,Liverpool,Wholesale,Vaccines,53590.17,178,359.89,September,2018,Peter White,David Garcia
+BioHealth,USA,San Francisco,Distributor,Antivirals,38083.61,113,411.0,March,2019,Sarah Connor,Michael Brown
+HealthKart,Australia,Perth,Online,Analgesics,2709.92,180,16.74,May,2018,Sarah Connor,John Doe
+HealthKart,Australia,Brisbane,Wholesale,Vitamins,14111.98,110,142.7,September,2018,James Goodwill,Priya Mehta
+HealthKart,Canada,Calgary,Retail,Antivirals,7133.87,40,183.88,April,2020,Raj Malhotra,Emily Clark
+PharmaPlus,Canada,Ottawa,Wholesale,Vitamins,20370.06,62,307.3,April,2020,Sarah Connor,Emily Clark
+BioHealth,USA,New York,Retail,Vaccines,14721.6,82,192.38,May,2021,James Goodwill,Robert Wilson
+PharmaPlus,USA,San Francisco,Wholesale,Analgesics,37453.29,82,404.49,September,2023,James Goodwill,Emily Clark
+RemedyMart,France,Toulouse,Retail,Analgesics,31021.58,187,148.82,February,2019,Raj Malhotra,Amit Sharma
+HealthKart,USA,Houston,Wholesale,Analgesics,44874.44,131,312.22,May,2024,Peter White,Priya Mehta
+PharmaPlus,France,Paris,Retail,Antibiotics,54330.45,120,493.95,February,2017,Linda Grey,John Doe
+Apollo Pharmacy,Canada,Calgary,Retail,Vaccines,9078.54,73,111.05,August,2020,Linda Grey,Robert Wilson
+MedLife,France,Toulouse,Retail,Vitamins,5236.98,39,141.74,October,2018,James Goodwill,Michael Brown
+RemedyMart,India,Chennai,Wholesale,Vaccines,63897.96,182,431.31,February,2021,James Goodwill,Laura Adams
+HealthZone,India,Chennai,Distributor,Vitamins,45768.21,187,232.63,March,2023,James Goodwill,Robert Wilson
+MediStore,India,Mumbai,Retail,Vaccines,39124.9,107,322.6,September,2021,Peter White,Priya Mehta
+LifeCare,UK,London,Wholesale,Analgesics,40387.12,168,226.85,January,2018,James Goodwill,Priya Mehta
+HealthKart,France,Paris,Retail,Analgesics,14113.32,37,394.15,February,2018,Peter White,Priya Mehta
+CurePoint,Australia,Melbourne,Wholesale,Analgesics,9439.4,63,153.27,October,2017,James Goodwill,William Lee
+RemedyMart,India,Bangalore,Retail,Vaccines,20804.65,185,108.54,February,2019,Raj Malhotra,Emily Clark
+BioHealth,France,Marseille,Distributor,Analgesics,5048.5,135,37.53,May,2024,Linda Grey,Priya Mehta
+MediStore,UK,Birmingham,Wholesale,Vitamins,7005.41,68,112.91,May,2022,James Goodwill,Emily Clark
+HealthZone,Australia,Brisbane,Online,Vaccines,671.46,3,210.74,February,2021,Raj Malhotra,David Garcia
